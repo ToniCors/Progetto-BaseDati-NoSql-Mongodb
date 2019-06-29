@@ -1,0 +1,363 @@
+ANNO_ACCADEMICO;ATENEO_CODICE;ATENEO_NOME;ATENEO_REGIONE;GENERE;STUDENTI
+2015;101;Torino;Piemonte;F;33134
+2015;101;Torino;Piemonte;M;20694
+2015;101;Torino;Piemonte;F;6708
+2015;101;Torino;Piemonte;M;4350
+2015;102;Torino Politecnico;Piemonte;F;7231
+2015;102;Torino Politecnico;Piemonte;M;17814
+2015;102;Torino Politecnico;Piemonte;F;1379
+2015;102;Torino Politecnico;Piemonte;M;3759
+2015;201;Piemonte Orientale;Piemonte;F;4996
+2015;201;Piemonte Orientale;Piemonte;M;3268
+2015;201;Piemonte Orientale;Piemonte;F;1630
+2015;201;Piemonte Orientale;Piemonte;M;994
+2015;401;Bra - Scienze Gastronomiche;Piemonte;F;115
+2015;401;Bra - Scienze Gastronomiche;Piemonte;M;97
+2015;401;Bra - Scienze Gastronomiche;Piemonte;F;32
+2015;401;Bra - Scienze Gastronomiche;Piemonte;M;37
+2015;701;Aosta;Valle d'Aosta;F;659
+2015;701;Aosta;Valle d'Aosta;M;243
+2015;701;Aosta;Valle d'Aosta;F;145
+2015;701;Aosta;Valle d'Aosta;M;69
+2015;1001;Genova;Liguria;F;14361
+2015;1001;Genova;Liguria;M;11716
+2015;1001;Genova;Liguria;F;2746
+2015;1001;Genova;Liguria;M;2403
+2015;1201;Castellanza LIUC;Lombardia;F;582
+2015;1201;Castellanza LIUC;Lombardia;M;1020
+2015;1201;Castellanza LIUC;Lombardia;F;106
+2015;1201;Castellanza LIUC;Lombardia;M;230
+2015;1202;Insubria;Lombardia;F;3878
+2015;1202;Insubria;Lombardia;M;3145
+2015;1202;Insubria;Lombardia;F;1000
+2015;1202;Insubria;Lombardia;M;854
+2015;1301;Novedrate e-Campus;Lombardia;F;3366
+2015;1301;Novedrate e-Campus;Lombardia;M;3538
+2015;1301;Novedrate e-Campus;Lombardia;F;472
+2015;1301;Novedrate e-Campus;Lombardia;M;464
+2015;1501;Milano;Lombardia;F;29042
+2015;1501;Milano;Lombardia;M;20474
+2015;1501;Milano;Lombardia;F;6330
+2015;1501;Milano;Lombardia;M;4288
+2015;1502;Milano Politecnico;Lombardia;F;11345
+2015;1502;Milano Politecnico;Lombardia;M;22819
+2015;1502;Milano Politecnico;Lombardia;F;2153
+2015;1502;Milano Politecnico;Lombardia;M;4792
+2015;1503;Milano Bocconi;Lombardia;F;5142
+2015;1503;Milano Bocconi;Lombardia;M;5471
+2015;1503;Milano Bocconi;Lombardia;F;1136
+2015;1503;Milano Bocconi;Lombardia;M;1466
+2015;1504;Milano Cattolica;Lombardia;F;18975
+2015;1504;Milano Cattolica;Lombardia;M;10601
+2015;1504;Milano Cattolica;Lombardia;F;4430
+2015;1504;Milano Cattolica;Lombardia;M;2516
+2015;1505;Milano IULM;Lombardia;F;2428
+2015;1505;Milano IULM;Lombardia;M;1007
+2015;1505;Milano IULM;Lombardia;F;880
+2015;1505;Milano IULM;Lombardia;M;339
+2015;1508;Milano San Raffaele;Lombardia;F;1120
+2015;1508;Milano San Raffaele;Lombardia;M;773
+2015;1508;Milano San Raffaele;Lombardia;F;247
+2015;1508;Milano San Raffaele;Lombardia;M;172
+2015;1509;Milano Bicocca;Lombardia;F;16354
+2015;1509;Milano Bicocca;Lombardia;M;10160
+2015;1509;Milano Bicocca;Lombardia;F;3194
+2015;1509;Milano Bicocca;Lombardia;M;2149
+2015;1510;Rozzano (MI) Humanitas University;Lombardia;F;128
+2015;1510;Rozzano (MI) Humanitas University;Lombardia;M;72
+2015;1510;Rozzano (MI) Humanitas University;Lombardia;F;86
+2015;1510;Rozzano (MI) Humanitas University;Lombardia;M;57
+2015;1601;Bergamo;Lombardia;F;7818
+2015;1601;Bergamo;Lombardia;M;4705
+2015;1601;Bergamo;Lombardia;F;2006
+2015;1601;Bergamo;Lombardia;M;1085
+2015;1701;Brescia;Lombardia;F;5404
+2015;1701;Brescia;Lombardia;M;6227
+2015;1701;Brescia;Lombardia;F;1094
+2015;1701;Brescia;Lombardia;M;1224
+2015;1801;Pavia;Lombardia;F;9562
+2015;1801;Pavia;Lombardia;M;7740
+2015;1801;Pavia;Lombardia;F;2098
+2015;1801;Pavia;Lombardia;M;1618
+2015;2101;Bolzano;Trentino-Alto Adige;F;1670
+2015;2101;Bolzano;Trentino-Alto Adige;M;787
+2015;2101;Bolzano;Trentino-Alto Adige;F;405
+2015;2101;Bolzano;Trentino-Alto Adige;M;170
+2015;2201;Trento;Trentino-Alto Adige;F;6804
+2015;2201;Trento;Trentino-Alto Adige;M;6638
+2015;2201;Trento;Trentino-Alto Adige;F;1435
+2015;2201;Trento;Trentino-Alto Adige;M;1329
+2015;2301;Verona;Veneto;F;11744
+2015;2301;Verona;Veneto;M;6577
+2015;2301;Verona;Veneto;F;2829
+2015;2301;Verona;Veneto;M;1490
+2015;2701;Venezia Cà Foscari;Veneto;F;10264
+2015;2701;Venezia Cà Foscari;Veneto;M;5638
+2015;2701;Venezia Cà Foscari;Veneto;F;2470
+2015;2701;Venezia Cà Foscari;Veneto;M;1288
+2015;2702;Venezia Iuav;Veneto;F;1799
+2015;2702;Venezia Iuav;Veneto;M;1778
+2015;2702;Venezia Iuav;Veneto;F;359
+2015;2702;Venezia Iuav;Veneto;M;283
+2015;2801;Padova;Veneto;F;26404
+2015;2801;Padova;Veneto;M;22324
+2015;2801;Padova;Veneto;F;5147
+2015;2801;Padova;Veneto;M;4630
+2015;3001;Udine;Friuli-Venezia Giulia;F;6271
+2015;3001;Udine;Friuli-Venezia Giulia;M;5826
+2015;3001;Udine;Friuli-Venezia Giulia;F;1381
+2015;3001;Udine;Friuli-Venezia Giulia;M;1378
+2015;3201;Trieste;Friuli-Venezia Giulia;F;7066
+2015;3201;Trieste;Friuli-Venezia Giulia;M;5534
+2015;3201;Trieste;Friuli-Venezia Giulia;F;1403
+2015;3201;Trieste;Friuli-Venezia Giulia;M;1032
+2015;3401;Parma;Emilia-Romagna;F;10728
+2015;3401;Parma;Emilia-Romagna;M;8451
+2015;3401;Parma;Emilia-Romagna;F;2077
+2015;3401;Parma;Emilia-Romagna;M;1613
+2015;3601;Modena e Reggio Emilia;Emilia-Romagna;F;8887
+2015;3601;Modena e Reggio Emilia;Emilia-Romagna;M;7798
+2015;3601;Modena e Reggio Emilia;Emilia-Romagna;F;2100
+2015;3601;Modena e Reggio Emilia;Emilia-Romagna;M;1993
+2015;3701;Bologna;Emilia-Romagna;F;36036
+2015;3701;Bologna;Emilia-Romagna;M;28782
+2015;3701;Bologna;Emilia-Romagna;F;7325
+2015;3701;Bologna;Emilia-Romagna;M;5883
+2015;3801;Ferrara;Emilia-Romagna;F;7011
+2015;3801;Ferrara;Emilia-Romagna;M;5794
+2015;3801;Ferrara;Emilia-Romagna;F;1414
+2015;3801;Ferrara;Emilia-Romagna;M;1236
+2015;4101;Urbino Carlo Bo;Marche;F;6941
+2015;4101;Urbino Carlo Bo;Marche;M;4418
+2015;4101;Urbino Carlo Bo;Marche;F;1510
+2015;4101;Urbino Carlo Bo;Marche;M;944
+2015;4201;Marche;Marche;F;5724
+2015;4201;Marche;Marche;M;6973
+2015;4201;Marche;Marche;F;1289
+2015;4201;Marche;Marche;M;1445
+2015;4301;Macerata;Marche;F;5829
+2015;4301;Macerata;Marche;M;2353
+2015;4301;Macerata;Marche;F;1285
+2015;4301;Macerata;Marche;M;489
+2015;4302;Camerino;Marche;F;2804
+2015;4302;Camerino;Marche;M;2686
+2015;4302;Camerino;Marche;F;506
+2015;4302;Camerino;Marche;M;399
+2015;4801;Firenze;Toscana;F;24970
+2015;4801;Firenze;Toscana;M;17420
+2015;4801;Firenze;Toscana;F;4741
+2015;4801;Firenze;Toscana;M;3295
+2015;4804;Firenze IUL;Toscana;F;27
+2015;4804;Firenze IUL;Toscana;M;7
+2015;4804;Firenze IUL;Toscana;F;38
+2015;4804;Firenze IUL;Toscana;M;9
+2015;5001;Pisa;Toscana;F;19807
+2015;5001;Pisa;Toscana;M;18549
+2015;5001;Pisa;Toscana;F;3333
+2015;5001;Pisa;Toscana;M;3234
+2015;5201;Siena;Toscana;F;7642
+2015;5201;Siena;Toscana;M;5579
+2015;5201;Siena;Toscana;F;1242
+2015;5201;Siena;Toscana;M;890
+2015;5202;Siena Stranieri;Toscana;F;913
+2015;5202;Siena Stranieri;Toscana;M;226
+2015;5202;Siena Stranieri;Toscana;F;392
+2015;5202;Siena Stranieri;Toscana;M;90
+2015;5401;Perugia;Umbria;F;10163
+2015;5401;Perugia;Umbria;M;7909
+2015;5401;Perugia;Umbria;F;1941
+2015;5401;Perugia;Umbria;M;1617
+2015;5403;Perugia Stranieri;Umbria;F;458
+2015;5403;Perugia Stranieri;Umbria;M;293
+2015;5403;Perugia Stranieri;Umbria;F;53
+2015;5403;Perugia Stranieri;Umbria;M;54
+2015;5601;Tuscia;Lazio;F;2996
+2015;5601;Tuscia;Lazio;M;3061
+2015;5601;Tuscia;Lazio;F;774
+2015;5601;Tuscia;Lazio;M;815
+2015;5801;Roma La Sapienza;Lazio;F;49237
+2015;5801;Roma La Sapienza;Lazio;M;36031
+2015;5801;Roma La Sapienza;Lazio;F;8177
+2015;5801;Roma La Sapienza;Lazio;M;6282
+2015;5802;Roma Tor Vergata;Lazio;F;12800
+2015;5802;Roma Tor Vergata;Lazio;M;12018
+2015;5802;Roma Tor Vergata;Lazio;F;2430
+2015;5802;Roma Tor Vergata;Lazio;M;2439
+2015;5803;Roma LUMSA;Lazio;F;3509
+2015;5803;Roma LUMSA;Lazio;M;1619
+2015;5803;Roma LUMSA;Lazio;F;581
+2015;5803;Roma LUMSA;Lazio;M;214
+2015;5805;Roma LUISS;Lazio;F;3139
+2015;5805;Roma LUISS;Lazio;M;3461
+2015;5805;Roma LUISS;Lazio;F;716
+2015;5805;Roma LUISS;Lazio;M;792
+2015;5806;Roma Foro Italico;Lazio;F;519
+2015;5806;Roma Foro Italico;Lazio;M;1370
+2015;5806;Roma Foro Italico;Lazio;F;96
+2015;5806;Roma Foro Italico;Lazio;M;241
+2015;5807;Roma Tre;Lazio;F;17153
+2015;5807;Roma Tre;Lazio;M;11559
+2015;5807;Roma Tre;Lazio;F;3020
+2015;5807;Roma Tre;Lazio;M;2241
+2015;5808;Roma Biomedico;Lazio;F;834
+2015;5808;Roma Biomedico;Lazio;M;556
+2015;5808;Roma Biomedico;Lazio;F;182
+2015;5808;Roma Biomedico;Lazio;M;108
+2015;5809;Roma UNINT;Lazio;F;885
+2015;5809;Roma UNINT;Lazio;M;284
+2015;5809;Roma UNINT;Lazio;F;171
+2015;5809;Roma UNINT;Lazio;M;62
+2015;5810;Roma Marconi;Lazio;F;5127
+2015;5810;Roma Marconi;Lazio;M;8351
+2015;5810;Roma Marconi;Lazio;F;312
+2015;5810;Roma Marconi;Lazio;M;351
+2015;5811;Roma UNITELMA;Lazio;F;646
+2015;5811;Roma UNITELMA;Lazio;M;773
+2015;5811;Roma UNITELMA;Lazio;F;24
+2015;5811;Roma UNITELMA;Lazio;M;33
+2015;5812;Roma Europea;Lazio;F;361
+2015;5812;Roma Europea;Lazio;M;223
+2015;5812;Roma Europea;Lazio;F;58
+2015;5812;Roma Europea;Lazio;M;14
+2015;5813;Roma UNINETTUNO;Lazio;F;3544
+2015;5813;Roma UNINETTUNO;Lazio;M;5806
+2015;5813;Roma UNINETTUNO;Lazio;F;239
+2015;5813;Roma UNINETTUNO;Lazio;M;326
+2015;5814;Roma  Mercatorum;Lazio;F;21
+2015;5814;Roma  Mercatorum;Lazio;M;44
+2015;5814;Roma  Mercatorum;Lazio;F;4
+2015;5814;Roma  Mercatorum;Lazio;M;2
+2015;5815;Roma UNICUSANO;Lazio;F;6345
+2015;5815;Roma UNICUSANO;Lazio;M;9307
+2015;5815;Roma UNICUSANO;Lazio;F;581
+2015;5815;Roma UNICUSANO;Lazio;M;1089
+2015;5816;Roma San Raffaele;Lazio;F;706
+2015;5816;Roma San Raffaele;Lazio;M;979
+2015;5816;Roma San Raffaele;Lazio;F;129
+2015;5816;Roma San Raffaele;Lazio;M;223
+2015;5817;Roma - Link Campus;Lazio;F;455
+2015;5817;Roma - Link Campus;Lazio;M;952
+2015;5817;Roma - Link Campus;Lazio;F;88
+2015;5817;Roma - Link Campus;Lazio;M;234
+2015;6001;Cassino;Lazio;F;3743
+2015;6001;Cassino;Lazio;M;2996
+2015;6001;Cassino;Lazio;F;600
+2015;6001;Cassino;Lazio;M;548
+2015;6201;Sannio;Campania;F;2418
+2015;6201;Sannio;Campania;M;2214
+2015;6201;Sannio;Campania;F;378
+2015;6201;Sannio;Campania;M;460
+2015;6202;Benevento - Giustino Fortunato;Campania;F;266
+2015;6202;Benevento - Giustino Fortunato;Campania;M;436
+2015;6202;Benevento - Giustino Fortunato;Campania;F;24
+2015;6202;Benevento - Giustino Fortunato;Campania;M;49
+2015;6301;Napoli Federico II;Campania;F;36136
+2015;6301;Napoli Federico II;Campania;M;28421
+2015;6301;Napoli Federico II;Campania;F;6118
+2015;6301;Napoli Federico II;Campania;M;5307
+2015;6302;Napoli Parthenope;Campania;F;5188
+2015;6302;Napoli Parthenope;Campania;M;6416
+2015;6302;Napoli Parthenope;Campania;F;791
+2015;6302;Napoli Parthenope;Campania;M;1112
+2015;6303;Napoli L'Orientale;Campania;F;6580
+2015;6303;Napoli L'Orientale;Campania;M;1902
+2015;6303;Napoli L'Orientale;Campania;F;1583
+2015;6303;Napoli L'Orientale;Campania;M;421
+2015;6304;Napoli Benincasa;Campania;F;5839
+2015;6304;Napoli Benincasa;Campania;M;964
+2015;6304;Napoli Benincasa;Campania;F;1036
+2015;6304;Napoli Benincasa;Campania;M;180
+2015;6306;Napoli II;Campania;F;13144
+2015;6306;Napoli II;Campania;M;9256
+2015;6306;Napoli II;Campania;F;1884
+2015;6306;Napoli II;Campania;M;1557
+2015;6307;Napoli Pegaso;Campania;F;2196
+2015;6307;Napoli Pegaso;Campania;M;3312
+2015;6307;Napoli Pegaso;Campania;F;840
+2015;6307;Napoli Pegaso;Campania;M;1615
+2015;6501;Salerno;Campania;F;17673
+2015;6501;Salerno;Campania;M;11818
+2015;6501;Salerno;Campania;F;2879
+2015;6501;Salerno;Campania;M;2399
+2015;6601;L'Aquila;Abruzzo;F;9456
+2015;6601;L'Aquila;Abruzzo;M;6866
+2015;6601;L'Aquila;Abruzzo;F;899
+2015;6601;L'Aquila;Abruzzo;M;842
+2015;6701;Teramo;Abruzzo;F;2955
+2015;6701;Teramo;Abruzzo;M;2123
+2015;6701;Teramo;Abruzzo;F;542
+2015;6701;Teramo;Abruzzo;M;379
+2015;6901;Chieti e Pescara;Abruzzo;F;14106
+2015;6901;Chieti e Pescara;Abruzzo;M;7850
+2015;6901;Chieti e Pescara;Abruzzo;F;2220
+2015;6901;Chieti e Pescara;Abruzzo;M;1250
+2015;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;F;61
+2015;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;M;37
+2015;7001;Molise;Molise;F;3505
+2015;7001;Molise;Molise;M;2430
+2015;7001;Molise;Molise;F;567
+2015;7001;Molise;Molise;M;417
+2015;7101;Foggia;Puglia;F;4821
+2015;7101;Foggia;Puglia;M;2787
+2015;7101;Foggia;Puglia;F;748
+2015;7101;Foggia;Puglia;M;627
+2015;7201;Bari;Puglia;F;24770
+2015;7201;Bari;Puglia;M;14368
+2015;7201;Bari;Puglia;F;4096
+2015;7201;Bari;Puglia;M;2777
+2015;7202;Bari Politecnico;Puglia;F;2645
+2015;7202;Bari Politecnico;Puglia;M;5757
+2015;7202;Bari Politecnico;Puglia;F;395
+2015;7202;Bari Politecnico;Puglia;M;973
+2015;7203;Casamassima - J.Monnet;Puglia;F;328
+2015;7203;Casamassima - J.Monnet;Puglia;M;509
+2015;7203;Casamassima - J.Monnet;Puglia;F;53
+2015;7203;Casamassima - J.Monnet;Puglia;M;107
+2015;7501;Salento;Puglia;F;9054
+2015;7501;Salento;Puglia;M;5258
+2015;7501;Salento;Puglia;F;1628
+2015;7501;Salento;Puglia;M;1034
+2015;7601;Basilicata;Basilicata;F;3252
+2015;7601;Basilicata;Basilicata;M;2399
+2015;7601;Basilicata;Basilicata;F;445
+2015;7601;Basilicata;Basilicata;M;442
+2015;7801;Calabria;Calabria;F;13996
+2015;7801;Calabria;Calabria;M;9589
+2015;7801;Calabria;Calabria;F;2125
+2015;7801;Calabria;Calabria;M;1613
+2015;7901;Catanzaro;Calabria;F;5390
+2015;7901;Catanzaro;Calabria;M;3506
+2015;7901;Catanzaro;Calabria;F;724
+2015;7901;Catanzaro;Calabria;M;631
+2015;8001;Reggio Calabria;Calabria;F;2789
+2015;8001;Reggio Calabria;Calabria;M;2636
+2015;8001;Reggio Calabria;Calabria;F;278
+2015;8001;Reggio Calabria;Calabria;M;402
+2015;8003;Reggio Calabria - Dante Alighieri;Calabria;F;699
+2015;8003;Reggio Calabria - Dante Alighieri;Calabria;M;142
+2015;8003;Reggio Calabria - Dante Alighieri;Calabria;F;98
+2015;8003;Reggio Calabria - Dante Alighieri;Calabria;M;16
+2015;8201;Palermo;Sicilia;F;20100
+2015;8201;Palermo;Sicilia;M;13783
+2015;8201;Palermo;Sicilia;F;3463
+2015;8201;Palermo;Sicilia;M;2729
+2015;8301;Messina;Sicilia;F;13071
+2015;8301;Messina;Sicilia;M;7569
+2015;8301;Messina;Sicilia;F;1832
+2015;8301;Messina;Sicilia;M;1188
+2015;8601;Enna - KORE;Sicilia;F;3044
+2015;8601;Enna - KORE;Sicilia;M;1893
+2015;8601;Enna - KORE;Sicilia;F;513
+2015;8601;Enna - KORE;Sicilia;M;326
+2015;8701;Catania;Sicilia;F;23473
+2015;8701;Catania;Sicilia;M;15607
+2015;8701;Catania;Sicilia;F;3423
+2015;8701;Catania;Sicilia;M;2656
+2015;9001;Sassari;Sardegna;F;6833
+2015;9001;Sassari;Sardegna;M;3912
+2015;9001;Sassari;Sardegna;F;1025
+2015;9001;Sassari;Sardegna;M;641
+2015;9201;Cagliari;Sardegna;F;13449
+2015;9201;Cagliari;Sardegna;M;9002
+2015;9201;Cagliari;Sardegna;F;2026
+2015;9201;Cagliari;Sardegna;M;1578

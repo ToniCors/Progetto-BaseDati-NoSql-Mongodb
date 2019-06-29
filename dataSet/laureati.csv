@@ -1,0 +1,267 @@
+_id,ANNO,ATENEO_CODICE,ATENEO_NOME,TIPO_CORSO,ANNO_NASCITA,Sesso,STUDENTI
+ObjectId("5b1d967c66f28114a0e096f9"),2014,1201,Castellanza LIUC,Laurea,1985,F,501
+ObjectId("5b1d967c66f28114a0e0b86b"),2014,6307,Napoli Pegaso,Laurea,1960,F,928
+ObjectId("5b1d967d66f28114a0e0ea40"),2015,6307,Napoli Pegaso,Laurea,1956,F,1026
+ObjectId("5b1d968666f28114a0e0f8e2"),2016,6307,Napoli Pegaso,Laurea,1994,,556
+ObjectId("5b1d967c66f28114a0e0d461"),2015,3201,Trieste,Laurea,1945,F,3177
+ObjectId("5b1d968666f28114a0e0f87e"),2016,3201,Trieste,Laurea,1995,,3067
+ObjectId("5b1d968666f28114a0e0f85d"),2016,1201,Castellanza LIUC,Laurea,1995,,615
+ObjectId("5b1d967c66f28114a0e0a1d9"),2014,3201,Trieste,Laurea,1950,F,3255
+ObjectId("5b1d967c66f28114a0e0c9b1"),2015,1201,Castellanza LIUC,Laurea,1987,F,535
+ObjectId("5b1d967d66f28114a0e0dc6b"),2015,5201,Siena,Laurea,1950,F,2880
+ObjectId("5b1d968666f28114a0e0f7ea"),2016,5201,Siena,Laurea,1996,,2897
+ObjectId("5b1d968666f28114a0e0f7f8"),2016,5813,Roma UNINETTUNO,Laurea,1995,,572
+ObjectId("5b1d967c66f28114a0e0b264"),2014,5813,Roma UNINETTUNO,Laurea,1952,F,430
+ObjectId("5b1d968666f28114a0e0f7ef"),2016,1503,Milano Bocconi,Laurea,1996,,4617
+ObjectId("5b1d967d66f28114a0e0e43e"),2015,5813,Roma UNINETTUNO,Laurea,1948,F,517
+ObjectId("5b1d967c66f28114a0e099ab"),2014,1503,Milano Bocconi,Laurea,1983,F,4285
+ObjectId("5b1d967c66f28114a0e0cc97"),2015,1503,Milano Bocconi,Laurea,1983,F,4378
+ObjectId("5b1d967d66f28114a0e0e0e4"),2015,5805,Roma LUISS,Laurea,1987,F,2128
+ObjectId("5b1d968666f28114a0e0f806"),2016,5805,Roma LUISS,Laurea,1995,,2327
+ObjectId("5b1d967c66f28114a0e0aef9"),2014,5805,Roma LUISS,Laurea,1986,F,2319
+ObjectId("5b1d967c66f28114a0e0b90c"),2014,6501,Salerno,Laurea,1955,F,4765
+ObjectId("5b1d967d66f28114a0e0eb00"),2015,6501,Salerno,Laurea,1939,F,4669
+ObjectId("5b1d968666f28114a0e0f82d"),2016,6501,Salerno,Laurea,1995,,4941
+ObjectId("5b1d967c66f28114a0e0b3a5"),2014,5816,Roma San Raffaele,Laurea,1965,F,66
+ObjectId("5b1d968666f28114a0e0f88c"),2016,5816,Roma San Raffaele,Laurea,1994,,234
+ObjectId("5b1d967d66f28114a0e0e58a"),2015,5816,Roma San Raffaele,Laurea,1958,F,145
+ObjectId("5b1d968666f28114a0e0f81d"),2016,8001,Reggio Calabria,Laurea,1995,,954
+ObjectId("5b1d967d66f28114a0e0f2e4"),2015,8001,Reggio Calabria,Laurea,1964,F,1007
+ObjectId("5b1d967c66f28114a0e0c16a"),2014,8001,Reggio Calabria,Laurea,1957,F,1056
+ObjectId("5b1d968666f28114a0e0f849"),2016,1701,Brescia,Laurea,1995,,2506
+ObjectId("5b1d967c66f28114a0e09c6b"),2014,1701,Brescia,Laurea,1954,F,2279
+ObjectId("5b1d967c66f28114a0e0cf25"),2015,1701,Brescia,Laurea,1961,F,2479
+ObjectId("5b1d967c66f28114a0e0b699"),2014,6303,Napoli L'Orientale,Laurea,1963,F,1648
+ObjectId("5b1d967d66f28114a0e0e88f"),2015,6303,Napoli L'Orientale,Laurea,1947,F,1600
+ObjectId("5b1d968666f28114a0e0f802"),2016,6303,Napoli L'Orientale,Laurea,1995,,1634
+ObjectId("5b1d968666f28114a0e0f879"),2016,2702,Venezia Iuav,Laurea,1995,,1314
+ObjectId("5b1d967c66f28114a0e09ff6"),2014,2702,Venezia Iuav,Laurea,1969,F,1532
+ObjectId("5b1d967c66f28114a0e0d282"),2015,2702,Venezia Iuav,Laurea,1964,F,1423
+ObjectId("5b1d967c66f28114a0e0b04e"),2014,5808,Roma Biomedico,Laurea,1972,F,376
+ObjectId("5b1d967d66f28114a0e0e233"),2015,5808,Roma Biomedico,Laurea,1971,F,346
+ObjectId("5b1d968666f28114a0e0f816"),2016,5808,Roma Biomedico,Laurea,1995,,444
+ObjectId("5b1d967c66f28114a0e09cf4"),2014,1801,Pavia,Laurea,1957,F,4435
+ObjectId("5b1d968666f28114a0e0f84b"),2016,1801,Pavia,Laurea,1995,,4355
+ObjectId("5b1d967c66f28114a0e0cfa5"),2015,1801,Pavia,Laurea,1953,F,4585
+ObjectId("5b1d967c66f28114a0e0c3c7"),2014,8601,Enna - KORE,Laurea,1956,F,1015
+ObjectId("5b1d967d66f28114a0e0f526"),2015,8601,Enna - KORE,Laurea,1960,F,1046
+ObjectId("5b1d968666f28114a0e0f81a"),2016,8601,Enna - KORE,Laurea,1995,,1094
+ObjectId("5b1d967c66f28114a0e0ac72"),2014,5801,Roma La Sapienza,Laurea,1936,F,18828
+ObjectId("5b1d968666f28114a0e0f809"),2016,5801,Roma La Sapienza,Laurea,1995,,18228
+ObjectId("5b1d967d66f28114a0e0de84"),2015,5801,Roma La Sapienza,Laurea,1945,F,18109
+ObjectId("5b1d968666f28114a0e0f829"),2016,9201,Cagliari,Laurea,1995,,3891
+ObjectId("5b1d967d66f28114a0e0f712"),2015,9201,Cagliari,Laurea,1956,F,3890
+ObjectId("5b1d967c66f28114a0e0c5bf"),2014,9201,Cagliari,Laurea,1947,F,3998
+ObjectId("5b1d967c66f28114a0e0aa2c"),2014,5201,Siena,Laurea,1955,F,2826
+ObjectId("5b1d968666f28114a0e0f81c"),2016,7901,Catanzaro,Laurea,1995,,1250
+ObjectId("5b1d967c66f28114a0e0c0ea"),2014,7901,Catanzaro,Laurea,1957,F,1188
+ObjectId("5b1d967d66f28114a0e0f278"),2015,7901,Catanzaro,Laurea,1962,F,1082
+ObjectId("5b1d967c66f28114a0e0c9e3"),2015,1202,Insubria,Laurea,1955,F,1564
+ObjectId("5b1d967c66f28114a0e0972d"),2014,1202,Insubria,Laurea,1951,F,1498
+ObjectId("5b1d967c66f28114a0e0b230"),2014,5812,Roma Europea,Laurea,1964,F,241
+ObjectId("5b1d967d66f28114a0e0e415"),2015,5812,Roma Europea,Laurea,1985,F,155
+ObjectId("5b1d968666f28114a0e0f890"),2016,6202,Benevento - Giustino Fortunato,Laurea,1994,,198
+ObjectId("5b1d967d66f28114a0e0e6f1"),2015,6202,Benevento - Giustino Fortunato,Laurea,1959,F,153
+ObjectId("5b1d968666f28114a0e0f804"),2016,5812,Roma Europea,Laurea,1995,,166
+ObjectId("5b1d968666f28114a0e0f90d"),2016,1202,Insubria,Laurea,1994,,1494
+ObjectId("5b1d968666f28114a0e0f83b"),2016,7601,Basilicata,Laurea,1995,,836
+ObjectId("5b1d967d66f28114a0e0f161"),2015,7601,Basilicata,Laurea,1961,F,851
+ObjectId("5b1d967c66f28114a0e0abfc"),2014,5601,Tuscia,Laurea,1953,F,1294
+ObjectId("5b1d967c66f28114a0e0bfa3"),2014,7601,Basilicata,Laurea,1958,F,1014
+ObjectId("5b1d968666f28114a0e0f832"),2016,5601,Tuscia,Laurea,1995,,1236
+ObjectId("5b1d967d66f28114a0e0de22"),2015,5601,Tuscia,Laurea,1959,F,1259
+ObjectId("5b1d967c66f28114a0e0b505"),2014,6202,Benevento - Giustino Fortunato,Laurea,1957,F,130
+ObjectId("5b1d967c66f28114a0e099f0"),2014,1504,Milano Cattolica,Laurea,1952,F,9513
+ObjectId("5b1d967c66f28114a0e0ccd6"),2015,1504,Milano Cattolica,Laurea,1934,F,9202
+ObjectId("5b1d968666f28114a0e0f7ee"),2016,1504,Milano Cattolica,Laurea,1996,,9330
+ObjectId("5b1d968666f28114a0e0f813"),2016,6306,Napoli Vanvitelli,Laurea,1995,,2969
+ObjectId("5b1d967c66f28114a0e0b79c"),2014,6306,Napoli Vanvitelli,Laurea,1956,F,4463
+ObjectId("5b1d967d66f28114a0e0e977"),2015,6306,Napoli Vanvitelli,Laurea,1959,F,4435
+ObjectId("5b1d968666f28114a0e0f7f3"),2016,1001,Genova,Laurea,1996,,5960
+ObjectId("5b1d967c66f28114a0e0c8cc"),2015,1001,Genova,Laurea,1935,F,5912
+ObjectId("5b1d967c66f28114a0e09618"),2014,1001,Genova,Laurea,1944,F,6235
+ObjectId("5b1d968666f28114a0e0f80f"),2016,5806,Roma Foro Italico,Laurea,1995,,507
+ObjectId("5b1d968666f28114a0e0f875"),2016,3001,Udine,Laurea,1995,,3021
+ObjectId("5b1d967c66f28114a0e0d3bc"),2015,3001,Udine,Laurea,1949,F,2880
+ObjectId("5b1d968666f28114a0e0fd9a"),2016,1510,Rozzano (MI) Humanitas University,Laurea Magistrale Ciclo Unico,1991,,7
+ObjectId("5b1d968666f28114a0e0f858"),2016,201,Piemonte Orientale,Laurea,1995,,1771
+ObjectId("5b1d967c66f28114a0e0952d"),2014,201,Piemonte Orientale,Laurea,1951,F,1570
+ObjectId("5b1d967c66f28114a0e0af34"),2014,5806,Roma Foro Italico,Laurea,1975,F,412
+ObjectId("5b1d967c66f28114a0e0c7de"),2015,201,Piemonte Orientale,Laurea,1947,F,1757
+ObjectId("5b1d967d66f28114a0e0e11f"),2015,5806,Roma Foro Italico,Laurea,1973,F,469
+ObjectId("5b1d967d66f28114a0e0e5f8"),2015,6001,Cassino,Laurea,1955,F,1373
+ObjectId("5b1d967c66f28114a0e0b41c"),2014,6001,Cassino,Laurea,1959,F,1332
+ObjectId("5b1d967c66f28114a0e09f61"),2014,2701,Venezia C� Foscari,Laurea,1940,F,4206
+ObjectId("5b1d968666f28114a0e0f7fb"),2016,6001,Cassino,Laurea,1995,,1406
+ObjectId("5b1d967c66f28114a0e0af74"),2014,5807,Roma Tre,Laurea,1955,F,5851
+ObjectId("5b1d967c66f28114a0e0d1fc"),2015,2701,Venezia C� Foscari,Laurea,1950,F,4624
+ObjectId("5b1d967d66f28114a0e0f45a"),2015,8301,Messina,Laurea,1952,F,4314
+ObjectId("5b1d968666f28114a0e0f7e9"),2016,2701,Venezia C� Foscari,Laurea,1996,,4774
+ObjectId("5b1d968666f28114a0e0f822"),2016,8301,Messina,Laurea,1995,,4365
+ObjectId("5b1d967d66f28114a0e0e15e"),2015,5807,Roma Tre,Laurea,1953,F,6070
+ObjectId("5b1d967c66f28114a0e0c2fc"),2014,8301,Messina,Laurea,1954,F,4261
+ObjectId("5b1d968666f28114a0e0f814"),2016,5807,Roma Tre,Laurea,1995,,6171
+ObjectId("5b1d967c66f28114a0e09ae8"),2014,1508,Milano San Raffaele,Laurea,1979,F,508
+ObjectId("5b1d967c66f28114a0e0aaf5"),2014,5401,Perugia,Laurea,1953,F,4543
+ObjectId("5b1d967d66f28114a0e0dd36"),2015,5401,Perugia,Laurea,1957,F,4382
+ObjectId("5b1d968666f28114a0e0f843"),2016,1508,Milano San Raffaele,Laurea,1995,,494
+ObjectId("5b1d967c66f28114a0e0cdb2"),2015,1508,Milano San Raffaele,Laurea,1969,F,444
+ObjectId("5b1d968666f28114a0e0f872"),2016,5401,Perugia,Laurea,1995,,4514
+ObjectId("5b1d967c66f28114a0e0bea3"),2014,7203,Casamassima - J.Monnet,Laurea,1964,F,260
+ObjectId("5b1d968666f28114a0e0f7fa"),2016,5817,Roma - Link Campus,Laurea,1995,,279
+ObjectId("5b1d967d66f28114a0e0e5be"),2015,5817,Roma - Link Campus,Laurea,1968,F,87
+ObjectId("5b1d967c66f28114a0e0b3cb"),2014,5817,Roma - Link Campus,Laurea,1960,F,134
+ObjectId("5b1d967c66f28114a0e095b8"),2014,401,Bra - Scienze Gastronomiche,Laurea,1982,F,74
+ObjectId("5b1d967c66f28114a0e0c87b"),2015,401,Bra - Scienze Gastronomiche,Laurea,1986,F,71
+ObjectId("5b1d968666f28114a0e0f850"),2016,401,Bra - Scienze Gastronomiche,Laurea,1995,,74
+ObjectId("5b1d967c66f28114a0e0c029"),2014,7801,Calabria,Laurea,1955,F,4757
+ObjectId("5b1d968666f28114a0e0f80c"),2016,5802,Roma Tor Vergata,Laurea,1995,,6025
+ObjectId("5b1d967d66f28114a0e0f1d1"),2015,7801,Calabria,Laurea,1956,F,4482
+ObjectId("5b1d968666f28114a0e0f821"),2016,7801,Calabria,Laurea,1995,,4392
+ObjectId("5b1d967d66f28114a0e0df96"),2015,5802,Roma Tor Vergata,Laurea,1953,F,5664
+ObjectId("5b1d967d66f28114a0e0e7fd"),2015,6302,Napoli Parthenope,Laurea,1954,F,2162
+ObjectId("5b1d967c66f28114a0e0ad91"),2014,5802,Roma Tor Vergata,Laurea,1947,F,5816
+ObjectId("5b1d967c66f28114a0e0b609"),2014,6302,Napoli Parthenope,Laurea,1952,F,2534
+ObjectId("5b1d968666f28114a0e0f800"),2016,6302,Napoli Parthenope,Laurea,1995,,2185
+ObjectId("5b1d968666f28114a0e0f83f"),2016,2201,Trento,Laurea,1995,,3576
+ObjectId("5b1d967d66f28114a0e0e04d"),2015,5803,Roma LUMSA,Laurea,1956,F,1241
+ObjectId("5b1d968666f28114a0e0f80e"),2016,5803,Roma LUMSA,Laurea,1995,,1288
+ObjectId("5b1d968666f28114a0e0f8b0"),2016,5811,Roma UNITELMA,Laurea,1994,,342
+ObjectId("5b1d968666f28114a0e0f866"),2016,4201,Marche,Laurea,1995,,2961
+ObjectId("5b1d967c66f28114a0e09e01"),2014,2201,Trento,Laurea,1950,F,3467
+ObjectId("5b1d967c66f28114a0e0b195"),2014,5811,Roma UNITELMA,Laurea,1954,F,334
+ObjectId("5b1d967d66f28114a0e0d8ed"),2015,4201,Marche,Laurea,1964,F,3086
+ObjectId("5b1d967c66f28114a0e0a69b"),2014,4201,Marche,Laurea,1964,F,2974
+ObjectId("5b1d967c66f28114a0e0d0ac"),2015,2201,Trento,Laurea,1950,F,3525
+ObjectId("5b1d967d66f28114a0e0e37e"),2015,5811,Roma UNITELMA,Laurea,1952,F,309
+ObjectId("5b1d968666f28114a0e0f7fd"),2016,6201,Sannio,Laurea,1995,,896
+ObjectId("5b1d967c66f28114a0e0ae58"),2014,5803,Roma LUMSA,Laurea,1946,F,1491
+ObjectId("5b1d967c66f28114a0e093d5"),2014,101,Torino,Laurea,1942,F,11076
+ObjectId("5b1d968666f28114a0e0f7ec"),2016,101,Torino,Laurea,1996,,12234
+ObjectId("5b1d967c66f28114a0e0c699"),2015,101,Torino,Laurea,1947,F,11427
+ObjectId("5b1d968666f28114a0e0f87a"),2016,2801,Padova,Laurea,1995,,12241
+ObjectId("5b1d967c66f28114a0e0a059"),2014,2801,Padova,Laurea,1936,F,11989
+ObjectId("5b1d968666f28114a0e0f841"),2016,1505,Milano IULM,Laurea,1995,,1110
+ObjectId("5b1d967c66f28114a0e0d2d5"),2015,2801,Padova,Laurea,1950,F,11221
+ObjectId("5b1d967c66f28114a0e09aae"),2014,1505,Milano IULM,Laurea,1968,F,1145
+ObjectId("5b1d968666f28114a0e0f874"),2016,4801,Firenze,Laurea,1995,,8220
+ObjectId("5b1d967c66f28114a0e0cd7a"),2015,1505,Milano IULM,Laurea,1966,F,1133
+ObjectId("5b1d967d66f28114a0e0f059"),2015,7203,Casamassima - J.Monnet,Laurea,1958,F,328
+ObjectId("5b1d968666f28114a0e0f838"),2016,7203,Casamassima - J.Monnet,Laurea,1995,,265
+ObjectId("5b1d967c66f28114a0e0a873"),2014,4801,Firenze,Laurea,1945,F,8292
+ObjectId("5b1d967d66f28114a0e0dabf"),2015,4801,Firenze,Laurea,1942,F,7918
+ObjectId("5b1d968666f28114a0e0f81f"),2016,8201,Palermo,Laurea,1995,,7518
+ObjectId("5b1d967d66f28114a0e0e697"),2015,6201,Sannio,Laurea,1958,F,925
+ObjectId("5b1d967d66f28114a0e0f394"),2015,8201,Palermo,Laurea,1955,F,7688
+ObjectId("5b1d967c66f28114a0e0b4aa"),2014,6201,Sannio,Laurea,1961,F,843
+ObjectId("5b1d967c66f28114a0e0c22c"),2014,8201,Palermo,Laurea,1956,F,7773
+ObjectId("5b1d967c66f28114a0e0c51f"),2014,9001,Sassari,Laurea,1947,F,2075
+ObjectId("5b1d967d66f28114a0e0f65e"),2015,9001,Sassari,Laurea,1953,F,2087
+ObjectId("5b1d968666f28114a0e0f827"),2016,9001,Sassari,Laurea,1995,,1923
+ObjectId("5b1d967d66f28114a0e0ee0c"),2015,7001,Molise,Laurea,1951,F,1040
+ObjectId("5b1d968666f28114a0e0f8cc"),2016,7001,Molise,Laurea,1994,,1074
+ObjectId("5b1d967c66f28114a0e0bc22"),2014,7001,Molise,Laurea,1955,F,1153
+ObjectId("5b1d967c66f28114a0e0a138"),2014,3001,Udine,Laurea,1943,F,2937
+ObjectId("5b1d968666f28114a0e0f825"),2016,8701,Catania,Laurea,1995,,6452
+ObjectId("5b1d967d66f28114a0e0f58d"),2015,8701,Catania,Laurea,1939,F,6822
+ObjectId("5b1d967c66f28114a0e0c44a"),2014,8701,Catania,Laurea,1954,F,6975
+ObjectId("5b1d967c66f28114a0e0b553"),2014,6301,Napoli Federico II,Laurea,1950,F,12605
+ObjectId("5b1d967c66f28114a0e0a29f"),2014,3401,Parma,Laurea,1947,F,5184
+ObjectId("5b1d967d66f28114a0e0d519"),2015,3401,Parma,Laurea,1960,F,4788
+ObjectId("5b1d968666f28114a0e0f880"),2016,3401,Parma,Laurea,1995,,4530
+ObjectId("5b1d967d66f28114a0e0e497"),2015,5814,Roma  Mercatorum,Laurea,1961,F,18
+ObjectId("5b1d968666f28114a0e0f81e"),2016,8003,Reggio Calabria - Dante Alighieri,Laurea,1995,,216
+ObjectId("5b1d967c66f28114a0e0be36"),2014,7202,Bari Politecnico,Laurea,1972,F,1683
+ObjectId("5b1d967d66f28114a0e0f35d"),2015,8003,Reggio Calabria - Dante Alighieri,Laurea,1975,F,150
+ObjectId("5b1d967c66f28114a0e0c1f4"),2014,8003,Reggio Calabria - Dante Alighieri,Laurea,1960,F,152
+ObjectId("5b1d967d66f28114a0e0eff0"),2015,7202,Bari Politecnico,Laurea,1979,F,1652
+ObjectId("5b1d967c66f28114a0e09ea9"),2014,2301,Verona,Laurea,1952,F,4512
+ObjectId("5b1d967c66f28114a0e0cde3"),2015,1509,Milano Bicocca,Laurea,1950,F,6442
+ObjectId("5b1d967c66f28114a0e09b1d"),2014,1509,Milano Bicocca,Laurea,1953,F,6400
+ObjectId("5b1d967c66f28114a0e0b2b3"),2014,5814,Roma  Mercatorum,Laurea,1966,F,32
+ObjectId("5b1d968666f28114a0e0f7f7"),2016,6301,Napoli Federico II,Laurea,1995,,12687
+ObjectId("5b1d968666f28114a0e0f870"),2016,2301,Verona,Laurea,1995,,4365
+ObjectId("5b1d967c66f28114a0e0d14f"),2015,2301,Verona,Laurea,1953,F,4419
+ObjectId("5b1d967d66f28114a0e0e745"),2015,6301,Napoli Federico II,Laurea,1955,F,12769
+ObjectId("5b1d967c66f28114a0e095ce"),2014,701,Aosta,Laurea,1952,F,193
+ObjectId("5b1d968666f28114a0e0f85a"),2016,701,Aosta,Laurea,1995,,189
+ObjectId("5b1d967c66f28114a0e0c893"),2015,701,Aosta,Laurea,1959,F,183
+ObjectId("5b1d968666f28114a0e0f846"),2016,1509,Milano Bicocca,Laurea,1995,,6682
+ObjectId("5b1d967d66f28114a0e0da29"),2015,4302,Camerino,Laurea,1954,F,1214
+ObjectId("5b1d967c66f28114a0e0a7dd"),2014,4302,Camerino,Laurea,1962,F,1052
+ObjectId("5b1d967d66f28114a0e0f0ae"),2015,7501,Salento,Laurea,1947,F,3267
+ObjectId("5b1d967c66f28114a0e0bef3"),2014,7501,Salento,Laurea,1932,F,3374
+ObjectId("5b1d968666f28114a0e0f839"),2016,7501,Salento,Laurea,1995,,3311
+ObjectId("5b1d968666f28114a0e0f869"),2016,4302,Camerino,Laurea,1995,,1070
+ObjectId("5b1d967c66f28114a0e09930"),2014,1502,Milano Politecnico,Laurea,1967,F,9992
+ObjectId("5b1d968666f28114a0e0f7f5"),2016,102,Torino Politecnico,Laurea,1996,,5433
+ObjectId("5b1d967c66f28114a0e094d0"),2014,102,Torino Politecnico,Laurea,1962,F,6183
+ObjectId("5b1d967c66f28114a0e0c785"),2015,102,Torino Politecnico,Laurea,1965,F,6414
+ObjectId("5b1d967c66f28114a0e0cc16"),2015,1502,Milano Politecnico,Laurea,1960,F,10398
+ObjectId("5b1d968666f28114a0e0f859"),2016,1502,Milano Politecnico,Laurea,1995,,10481
+ObjectId("5b1d967c66f28114a0e0bb49"),2014,6901,Chieti e Pescara,Laurea,1945,F,5423
+ObjectId("5b1d968666f28114a0e0f831"),2016,6901,Chieti e Pescara,Laurea,1995,,5190
+ObjectId("5b1d967d66f28114a0e0ed3a"),2015,6901,Chieti e Pescara,Laurea,1932,F,5340
+ObjectId("5b1d967c66f28114a0e0ce9c"),2015,1601,Bergamo,Laurea,1941,F,2864
+ObjectId("5b1d968666f28114a0e0f86f"),2016,5202,Siena Stranieri,Laurea,1995,,295
+ObjectId("5b1d968666f28114a0e0f83e"),2016,1601,Bergamo,Laurea,1995,,3006
+ObjectId("5b1d967c66f28114a0e0aad1"),2014,5202,Siena Stranieri,Laurea,1959,F,166
+ObjectId("5b1d967d66f28114a0e0dd10"),2015,5202,Siena Stranieri,Laurea,1955,F,220
+ObjectId("5b1d967c66f28114a0e0bcc0"),2014,7101,Foggia,Laurea,1950,F,1451
+ObjectId("5b1d968666f28114a0e0f836"),2016,7202,Bari Politecnico,Laurea,1995,,2014
+ObjectId("5b1d968666f28114a0e0f883"),2016,3601,Modena e Reggio Emilia,Laurea,1995,,4048
+ObjectId("5b1d967d66f28114a0e0d5c9"),2015,3601,Modena e Reggio Emilia,Laurea,1950,F,3827
+ObjectId("5b1d967d66f28114a0e0ee95"),2015,7101,Foggia,Laurea,1963,F,1428
+ObjectId("5b1d967c66f28114a0e0a353"),2014,3601,Modena e Reggio Emilia,Laurea,1942,F,3708
+ObjectId("5b1d968666f28114a0e0f81b"),2016,7101,Foggia,Laurea,1995,,1496
+ObjectId("5b1d967c66f28114a0e09bde"),2014,1601,Bergamo,Laurea,1950,F,2943
+ObjectId("5b1d967c66f28114a0e0a5b7"),2014,4101,Urbino,Laurea,1948,F,2564
+ObjectId("5b1d968666f28114a0e0f864"),2016,4101,Urbino Carlo Bo,Laurea,1995,,2515
+ObjectId("5b1d967d66f28114a0e0d818"),2015,4101,Urbino,Laurea,1952,F,2358
+ObjectId("5b1d967c66f28114a0e0ca57"),2015,1301,Novedrate e-Campus,Laurea,1948,F,911
+ObjectId("5b1d967c66f28114a0e0979b"),2014,1301,Novedrate e-Campus,Laurea,1944,F,809
+ObjectId("5b1d968666f28114a0e0f90f"),2016,1301,Novedrate e-Campus,Laurea,1994,,900
+ObjectId("5b1d967d66f28114a0e0e2a1"),2015,5810,Roma Marconi,Laurea,1947,F,1520
+ObjectId("5b1d968666f28114a0e0f8ae"),2016,5810,Roma Marconi,Laurea,1994,,1633
+ObjectId("5b1d967c66f28114a0e0b0bd"),2014,5810,Roma Marconi,Laurea,1942,F,1506
+ObjectId("5b1d967d66f28114a0e0d672"),2015,3701,Bologna,Laurea,1948,F,16748
+ObjectId("5b1d967c66f28114a0e0a40c"),2014,3701,Bologna,Laurea,1944,F,16598
+ObjectId("5b1d968666f28114a0e0f7f6"),2016,5001,Pisa,Laurea,1996,,6944
+ObjectId("5b1d967d66f28114a0e0db9f"),2015,5001,Pisa,Laurea,1942,F,6932
+ObjectId("5b1d967c66f28114a0e0a959"),2014,5001,Pisa,Laurea,1944,F,6556
+ObjectId("5b1d967c66f28114a0e0baa4"),2014,6701,Teramo,Laurea,1962,F,988
+ObjectId("5b1d967d66f28114a0e0ec95"),2015,6701,Teramo,Laurea,1958,F,981
+ObjectId("5b1d968666f28114a0e0f7eb"),2016,3701,Bologna,Laurea,1996,,17172
+ObjectId("5b1d968666f28114a0e0f830"),2016,6701,Teramo,Laurea,1995,,968
+ObjectId("5b1d967d66f28114a0e0e261"),2015,5809,Roma UNINT,Laurea,1962,F,331
+ObjectId("5b1d968666f28114a0e0f811"),2016,5809,Roma UNINT,Laurea,1995,,385
+ObjectId("5b1d967c66f28114a0e0b07c"),2014,5809,Roma UNINT,Laurea,1953,F,362
+ObjectId("5b1d967c66f28114a0e0b6f8"),2014,6304,Napoli Benincasa,Laurea,1947,F,1832
+ObjectId("5b1d967d66f28114a0e0e8eb"),2015,6304,Napoli Benincasa,Laurea,1954,F,1546
+ObjectId("5b1d967c66f28114a0e0d057"),2015,2101,Bolzano,Laurea,1959,F,453
+ObjectId("5b1d968666f28114a0e0f84d"),2016,2101,Bolzano,Laurea,1995,,517
+ObjectId("5b1d968666f28114a0e0f805"),2016,6304,Napoli Benincasa,Laurea,1995,,1538
+ObjectId("5b1d967c66f28114a0e09da8"),2014,2101,Bolzano,Laurea,1961,F,630
+ObjectId("5b1d967c66f28114a0e0b9d7"),2014,6601,L'Aquila,Laurea,1955,F,3310
+ObjectId("5b1d967d66f28114a0e0ebba"),2015,6601,L'Aquila,Laurea,1938,F,3400
+ObjectId("5b1d968666f28114a0e0f863"),2016,3801,Ferrara,Laurea,1995,,2865
+ObjectId("5b1d967d66f28114a0e0d778"),2015,3801,Ferrara,Laurea,1948,F,2997
+ObjectId("5b1d967c66f28114a0e0bc1c"),2014,6902,Torrevecchia Teatina - Leonardo da Vinci,Laurea,1958,F,6
+ObjectId("5b1d968666f28114a0e0f82f"),2016,6601,L'Aquila,Laurea,1995,,3727
+ObjectId("5b1d968666f28114a0e0f8e3"),2016,6902,Torrevecchia Teatina - Leonardo da Vinci,Laurea,1994,,36
+ObjectId("5b1d967c66f28114a0e0a50c"),2014,3801,Ferrara,Laurea,1954,F,2894
+ObjectId("5b1d967c66f28114a0e0a72c"),2014,4301,Macerata,Laurea,1950,F,1659
+ObjectId("5b1d968666f28114a0e0f868"),2016,4301,Macerata,Laurea,1995,,1739
+ObjectId("5b1d967d66f28114a0e0d974"),2015,4301,Macerata,Laurea,1948,F,1680
+ObjectId("5b1d967c66f28114a0e0981f"),2014,1501,Milano,Laurea,1949,F,10656
+ObjectId("5b1d967c66f28114a0e0cb16"),2015,1501,Milano,Laurea,1948,F,10866
+ObjectId("5b1d968666f28114a0e0f7f9"),2016,5815,Roma UNICUSANO,Laurea,1995,,2520
+ObjectId("5b1d967c66f28114a0e0abb8"),2014,5403,Perugia Stranieri,Laurea,1964,F,265
+ObjectId("5b1d967d66f28114a0e0e4a6"),2015,5815,Roma UNICUSANO,Laurea,1949,F,2336
+ObjectId("5b1d967c66f28114a0e0b2cd"),2014,5815,Roma UNICUSANO,Laurea,1948,F,2363
+ObjectId("5b1d967d66f28114a0e0ef0c"),2015,7201,Bari,Laurea,1954,F,7285
+ObjectId("5b1d968666f28114a0e0f852"),2016,5403,Perugia Stranieri,Laurea,1995,,148
+ObjectId("5b1d967d66f28114a0e0ddd7"),2015,5403,Perugia Stranieri,Laurea,1961,F,254
+ObjectId("5b1d968666f28114a0e0f808"),2016,7201,Bari,Laurea,1995,,7400
+ObjectId("5b1d967c66f28114a0e0bd40"),2014,7201,Bari,Laurea,1936,F,7657
+ObjectId("5b1d968666f28114a0e0f7f1"),2016,1501,Milano,Laurea,1996,,11475

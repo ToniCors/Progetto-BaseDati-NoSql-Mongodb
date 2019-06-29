@@ -1,0 +1,959 @@
+ANNO_ACCADEMICO;ATENEO_CODICE;ATENEO_NOME;ATENEO_REGIONE;GENERE;STUDENTI
+2016/2017;101;Torino;Piemonte;F;7178
+2016/2017;101;Torino;Piemonte;F;959
+2016/2017;101;Torino;Piemonte;M;3496
+2016/2017;101;Torino;Piemonte;M;384
+2016/2017;101;Torino;Piemonte;F;18657
+2016/2017;101;Torino;Piemonte;F;6411
+2016/2017;101;Torino;Piemonte;M;12711
+2016/2017;101;Torino;Piemonte;M;4337
+2016/2017;101;Torino;Piemonte;F;7618
+2016/2017;101;Torino;Piemonte;M;5089
+2016/2017;101;Torino;Piemonte;F;796
+2016/2017;101;Torino;Piemonte;M;322
+2016/2017;102;Torino Politecnico;Piemonte;F;4104
+2016/2017;102;Torino Politecnico;Piemonte;F;1258
+2016/2017;102;Torino Politecnico;Piemonte;M;10652
+2016/2017;102;Torino Politecnico;Piemonte;M;3568
+2016/2017;102;Torino Politecnico;Piemonte;F;3363
+2016/2017;102;Torino Politecnico;Piemonte;M;7894
+2016/2017;201;Piemonte Orientale;Piemonte;F;1271
+2016/2017;201;Piemonte Orientale;Piemonte;F;370
+2016/2017;201;Piemonte Orientale;Piemonte;M;787
+2016/2017;201;Piemonte Orientale;Piemonte;M;168
+2016/2017;201;Piemonte Orientale;Piemonte;F;3354
+2016/2017;201;Piemonte Orientale;Piemonte;F;1523
+2016/2017;201;Piemonte Orientale;Piemonte;M;2251
+2016/2017;201;Piemonte Orientale;Piemonte;M;962
+2016/2017;201;Piemonte Orientale;Piemonte;F;557
+2016/2017;201;Piemonte Orientale;Piemonte;M;380
+2016/2017;401;Bra - Scienze Gastronomiche;Piemonte;F;85
+2016/2017;401;Bra - Scienze Gastronomiche;Piemonte;F;33
+2016/2017;401;Bra - Scienze Gastronomiche;Piemonte;M;86
+2016/2017;401;Bra - Scienze Gastronomiche;Piemonte;M;42
+2016/2017;401;Bra - Scienze Gastronomiche;Piemonte;F;24
+2016/2017;401;Bra - Scienze Gastronomiche;Piemonte;M;21
+2016/2017;701;Aosta;Valle d'Aosta;F;90
+2016/2017;701;Aosta;Valle d'Aosta;F;16
+2016/2017;701;Aosta;Valle d'Aosta;M;6
+2016/2017;701;Aosta;Valle d'Aosta;M;2
+2016/2017;701;Aosta;Valle d'Aosta;F;449
+2016/2017;701;Aosta;Valle d'Aosta;F;129
+2016/2017;701;Aosta;Valle d'Aosta;M;205
+2016/2017;701;Aosta;Valle d'Aosta;M;50
+2016/2017;701;Aosta;Valle d'Aosta;F;57
+2016/2017;701;Aosta;Valle d'Aosta;M;22
+2016/2017;701;Aosta;Valle d'Aosta;F;28
+2016/2017;701;Aosta;Valle d'Aosta;M;3
+2016/2017;1001;Genova;Liguria;F;3239
+2016/2017;1001;Genova;Liguria;F;438
+2016/2017;1001;Genova;Liguria;M;1904
+2016/2017;1001;Genova;Liguria;M;241
+2016/2017;1001;Genova;Liguria;F;8419
+2016/2017;1001;Genova;Liguria;F;2322
+2016/2017;1001;Genova;Liguria;M;7460
+2016/2017;1001;Genova;Liguria;M;2074
+2016/2017;1001;Genova;Liguria;F;2500
+2016/2017;1001;Genova;Liguria;M;2363
+2016/2017;1001;Genova;Liguria;F;326
+2016/2017;1001;Genova;Liguria;M;210
+2016/2017;1201;Castellanza LIUC;Lombardia;F;125
+2016/2017;1201;Castellanza LIUC;Lombardia;F;17
+2016/2017;1201;Castellanza LIUC;Lombardia;M;84
+2016/2017;1201;Castellanza LIUC;Lombardia;M;13
+2016/2017;1201;Castellanza LIUC;Lombardia;F;222
+2016/2017;1201;Castellanza LIUC;Lombardia;F;95
+2016/2017;1201;Castellanza LIUC;Lombardia;M;537
+2016/2017;1201;Castellanza LIUC;Lombardia;M;209
+2016/2017;1201;Castellanza LIUC;Lombardia;F;262
+2016/2017;1201;Castellanza LIUC;Lombardia;M;457
+2016/2017;1201;Castellanza LIUC;Lombardia;F;1
+2016/2017;1201;Castellanza LIUC;Lombardia;M;2
+2016/2017;1202;Insubria;Lombardia;F;1091
+2016/2017;1202;Insubria;Lombardia;F;123
+2016/2017;1202;Insubria;Lombardia;M;707
+2016/2017;1202;Insubria;Lombardia;M;92
+2016/2017;1202;Insubria;Lombardia;F;2510
+2016/2017;1202;Insubria;Lombardia;F;1002
+2016/2017;1202;Insubria;Lombardia;M;2319
+2016/2017;1202;Insubria;Lombardia;M;910
+2016/2017;1202;Insubria;Lombardia;F;310
+2016/2017;1202;Insubria;Lombardia;M;256
+2016/2017;1202;Insubria;Lombardia;F;44
+2016/2017;1202;Insubria;Lombardia;M;27
+2016/2017;1301;Novedrate e-Campus;Lombardia;F;217
+2016/2017;1301;Novedrate e-Campus;Lombardia;F;6
+2016/2017;1301;Novedrate e-Campus;Lombardia;M;240
+2016/2017;1301;Novedrate e-Campus;Lombardia;M;12
+2016/2017;1301;Novedrate e-Campus;Lombardia;F;3204
+2016/2017;1301;Novedrate e-Campus;Lombardia;F;519
+2016/2017;1301;Novedrate e-Campus;Lombardia;M;3383
+2016/2017;1301;Novedrate e-Campus;Lombardia;M;514
+2016/2017;1301;Novedrate e-Campus;Lombardia;F;477
+2016/2017;1301;Novedrate e-Campus;Lombardia;M;353
+2016/2017;1501;Milano;Lombardia;F;6697
+2016/2017;1501;Milano;Lombardia;F;1116
+2016/2017;1501;Milano;Lombardia;M;3906
+2016/2017;1501;Milano;Lombardia;M;590
+2016/2017;1501;Milano;Lombardia;F;16254
+2016/2017;1501;Milano;Lombardia;F;4848
+2016/2017;1501;Milano;Lombardia;M;12546
+2016/2017;1501;Milano;Lombardia;M;3511
+2016/2017;1501;Milano;Lombardia;F;5384
+2016/2017;1501;Milano;Lombardia;M;3811
+2016/2017;1501;Milano;Lombardia;F;548
+2016/2017;1501;Milano;Lombardia;M;385
+2016/2017;1502;Milano Politecnico;Lombardia;F;294
+2016/2017;1502;Milano Politecnico;Lombardia;F;53
+2016/2017;1502;Milano Politecnico;Lombardia;M;355
+2016/2017;1502;Milano Politecnico;Lombardia;M;59
+2016/2017;1502;Milano Politecnico;Lombardia;F;5773
+2016/2017;1502;Milano Politecnico;Lombardia;F;2095
+2016/2017;1502;Milano Politecnico;Lombardia;M;13339
+2016/2017;1502;Milano Politecnico;Lombardia;M;4726
+2016/2017;1502;Milano Politecnico;Lombardia;F;5789
+2016/2017;1502;Milano Politecnico;Lombardia;M;9806
+2016/2017;1502;Milano Politecnico;Lombardia;F;91
+2016/2017;1502;Milano Politecnico;Lombardia;M;285
+2016/2017;1503;Milano Bocconi;Lombardia;F;719
+2016/2017;1503;Milano Bocconi;Lombardia;F;166
+2016/2017;1503;Milano Bocconi;Lombardia;M;486
+2016/2017;1503;Milano Bocconi;Lombardia;M;131
+2016/2017;1503;Milano Bocconi;Lombardia;F;2310
+2016/2017;1503;Milano Bocconi;Lombardia;F;1012
+2016/2017;1503;Milano Bocconi;Lombardia;M;2873
+2016/2017;1503;Milano Bocconi;Lombardia;M;1420
+2016/2017;1503;Milano Bocconi;Lombardia;F;1868
+2016/2017;1503;Milano Bocconi;Lombardia;M;2154
+2016/2017;1503;Milano Bocconi;Lombardia;F;29
+2016/2017;1503;Milano Bocconi;Lombardia;M;52
+2016/2017;1504;Milano Cattolica;Lombardia;F;3828
+2016/2017;1504;Milano Cattolica;Lombardia;F;662
+2016/2017;1504;Milano Cattolica;Lombardia;M;1770
+2016/2017;1504;Milano Cattolica;Lombardia;M;285
+2016/2017;1504;Milano Cattolica;Lombardia;F;10201
+2016/2017;1504;Milano Cattolica;Lombardia;F;3911
+2016/2017;1504;Milano Cattolica;Lombardia;M;6089
+2016/2017;1504;Milano Cattolica;Lombardia;M;2176
+2016/2017;1504;Milano Cattolica;Lombardia;F;4974
+2016/2017;1504;Milano Cattolica;Lombardia;M;2783
+2016/2017;1504;Milano Cattolica;Lombardia;F;129
+2016/2017;1504;Milano Cattolica;Lombardia;M;7
+2016/2017;1505;Milano IULM;Lombardia;F;2179
+2016/2017;1505;Milano IULM;Lombardia;F;955
+2016/2017;1505;Milano IULM;Lombardia;M;895
+2016/2017;1505;Milano IULM;Lombardia;M;358
+2016/2017;1505;Milano IULM;Lombardia;F;551
+2016/2017;1505;Milano IULM;Lombardia;M;240
+2016/2017;1505;Milano IULM;Lombardia;F;24
+2016/2017;1505;Milano IULM;Lombardia;M;4
+2016/2017;1508;Milano San Raffaele;Lombardia;F;507
+2016/2017;1508;Milano San Raffaele;Lombardia;F;91
+2016/2017;1508;Milano San Raffaele;Lombardia;M;522
+2016/2017;1508;Milano San Raffaele;Lombardia;M;83
+2016/2017;1508;Milano San Raffaele;Lombardia;F;439
+2016/2017;1508;Milano San Raffaele;Lombardia;F;178
+2016/2017;1508;Milano San Raffaele;Lombardia;M;212
+2016/2017;1508;Milano San Raffaele;Lombardia;M;81
+2016/2017;1508;Milano San Raffaele;Lombardia;F;249
+2016/2017;1508;Milano San Raffaele;Lombardia;M;94
+2016/2017;1509;Milano Bicocca;Lombardia;F;3203
+2016/2017;1509;Milano Bicocca;Lombardia;F;551
+2016/2017;1509;Milano Bicocca;Lombardia;M;1086
+2016/2017;1509;Milano Bicocca;Lombardia;M;193
+2016/2017;1509;Milano Bicocca;Lombardia;F;9184
+2016/2017;1509;Milano Bicocca;Lombardia;F;2893
+2016/2017;1509;Milano Bicocca;Lombardia;M;7025
+2016/2017;1509;Milano Bicocca;Lombardia;M;2159
+2016/2017;1509;Milano Bicocca;Lombardia;F;3984
+2016/2017;1509;Milano Bicocca;Lombardia;M;2241
+2016/2017;1509;Milano Bicocca;Lombardia;F;160
+2016/2017;1509;Milano Bicocca;Lombardia;M;4
+2016/2017;1510;Rozzano (MI) Humanitas University;Lombardia;F;150
+2016/2017;1510;Rozzano (MI) Humanitas University;Lombardia;F;72
+2016/2017;1510;Rozzano (MI) Humanitas University;Lombardia;M;102
+2016/2017;1510;Rozzano (MI) Humanitas University;Lombardia;M;56
+2016/2017;1510;Rozzano (MI) Humanitas University;Lombardia;F;62
+2016/2017;1510;Rozzano (MI) Humanitas University;Lombardia;F;28
+2016/2017;1510;Rozzano (MI) Humanitas University;Lombardia;M;33
+2016/2017;1510;Rozzano (MI) Humanitas University;Lombardia;M;20
+2016/2017;1601;Bergamo;Lombardia;F;473
+2016/2017;1601;Bergamo;Lombardia;F;94
+2016/2017;1601;Bergamo;Lombardia;M;452
+2016/2017;1601;Bergamo;Lombardia;M;45
+2016/2017;1601;Bergamo;Lombardia;F;5861
+2016/2017;1601;Bergamo;Lombardia;F;2006
+2016/2017;1601;Bergamo;Lombardia;M;3276
+2016/2017;1601;Bergamo;Lombardia;M;1253
+2016/2017;1601;Bergamo;Lombardia;F;1911
+2016/2017;1601;Bergamo;Lombardia;M;1299
+2016/2017;1601;Bergamo;Lombardia;F;30
+2016/2017;1601;Bergamo;Lombardia;M;15
+2016/2017;1701;Brescia;Lombardia;F;1806
+2016/2017;1701;Brescia;Lombardia;F;234
+2016/2017;1701;Brescia;Lombardia;M;1371
+2016/2017;1701;Brescia;Lombardia;M;150
+2016/2017;1701;Brescia;Lombardia;F;2881
+2016/2017;1701;Brescia;Lombardia;F;860
+2016/2017;1701;Brescia;Lombardia;M;3646
+2016/2017;1701;Brescia;Lombardia;M;1230
+2016/2017;1701;Brescia;Lombardia;F;508
+2016/2017;1701;Brescia;Lombardia;M;1017
+2016/2017;1701;Brescia;Lombardia;F;72
+2016/2017;1701;Brescia;Lombardia;M;87
+2016/2017;1801;Pavia;Lombardia;F;2912
+2016/2017;1801;Pavia;Lombardia;F;491
+2016/2017;1801;Pavia;Lombardia;M;1856
+2016/2017;1801;Pavia;Lombardia;M;308
+2016/2017;1801;Pavia;Lombardia;F;4637
+2016/2017;1801;Pavia;Lombardia;F;1693
+2016/2017;1801;Pavia;Lombardia;M;4134
+2016/2017;1801;Pavia;Lombardia;M;1494
+2016/2017;1801;Pavia;Lombardia;F;1911
+2016/2017;1801;Pavia;Lombardia;M;1643
+2016/2017;1801;Pavia;Lombardia;F;76
+2016/2017;1801;Pavia;Lombardia;M;39
+2016/2017;2101;Bolzano;Trentino-Alto Adige;F;614
+2016/2017;2101;Bolzano;Trentino-Alto Adige;F;166
+2016/2017;2101;Bolzano;Trentino-Alto Adige;M;50
+2016/2017;2101;Bolzano;Trentino-Alto Adige;M;9
+2016/2017;2101;Bolzano;Trentino-Alto Adige;F;912
+2016/2017;2101;Bolzano;Trentino-Alto Adige;F;306
+2016/2017;2101;Bolzano;Trentino-Alto Adige;M;602
+2016/2017;2101;Bolzano;Trentino-Alto Adige;M;156
+2016/2017;2101;Bolzano;Trentino-Alto Adige;F;203
+2016/2017;2101;Bolzano;Trentino-Alto Adige;M;218
+2016/2017;2101;Bolzano;Trentino-Alto Adige;F;41
+2016/2017;2101;Bolzano;Trentino-Alto Adige;M;10
+2016/2017;2201;Trento;Trentino-Alto Adige;F;1761
+2016/2017;2201;Trento;Trentino-Alto Adige;F;281
+2016/2017;2201;Trento;Trentino-Alto Adige;M;1065
+2016/2017;2201;Trento;Trentino-Alto Adige;M;202
+2016/2017;2201;Trento;Trentino-Alto Adige;F;3239
+2016/2017;2201;Trento;Trentino-Alto Adige;F;1096
+2016/2017;2201;Trento;Trentino-Alto Adige;M;3619
+2016/2017;2201;Trento;Trentino-Alto Adige;M;1132
+2016/2017;2201;Trento;Trentino-Alto Adige;F;1662
+2016/2017;2201;Trento;Trentino-Alto Adige;M;1936
+2016/2017;2201;Trento;Trentino-Alto Adige;F;106
+2016/2017;2201;Trento;Trentino-Alto Adige;M;81
+2016/2017;2301;Verona;Veneto;F;1495
+2016/2017;2301;Verona;Veneto;F;247
+2016/2017;2301;Verona;Veneto;M;1032
+2016/2017;2301;Verona;Veneto;M;139
+2016/2017;2301;Verona;Veneto;F;7983
+2016/2017;2301;Verona;Veneto;F;2634
+2016/2017;2301;Verona;Veneto;M;4449
+2016/2017;2301;Verona;Veneto;M;1382
+2016/2017;2301;Verona;Veneto;F;2330
+2016/2017;2301;Verona;Veneto;M;1295
+2016/2017;2301;Verona;Veneto;F;10
+2016/2017;2301;Verona;Veneto;M;1
+2016/2017;2701;Venezia C… Foscari;Veneto;F;6741
+2016/2017;2701;Venezia C… Foscari;Veneto;F;2244
+2016/2017;2701;Venezia C… Foscari;Veneto;M;3890
+2016/2017;2701;Venezia C… Foscari;Veneto;M;1185
+2016/2017;2701;Venezia C… Foscari;Veneto;F;3716
+2016/2017;2701;Venezia C… Foscari;Veneto;M;1821
+2016/2017;2701;Venezia C… Foscari;Veneto;F;4
+2016/2017;2701;Venezia C… Foscari;Veneto;M;2
+2016/2017;2702;Venezia Iuav;Veneto;F;937
+2016/2017;2702;Venezia Iuav;Veneto;F;375
+2016/2017;2702;Venezia Iuav;Veneto;M;878
+2016/2017;2702;Venezia Iuav;Veneto;M;249
+2016/2017;2702;Venezia Iuav;Veneto;F;766
+2016/2017;2702;Venezia Iuav;Veneto;M;774
+2016/2017;2702;Venezia Iuav;Veneto;F;41
+2016/2017;2702;Venezia Iuav;Veneto;M;40
+2016/2017;2801;Padova;Veneto;F;5389
+2016/2017;2801;Padova;Veneto;F;852
+2016/2017;2801;Padova;Veneto;M;2870
+2016/2017;2801;Padova;Veneto;M;405
+2016/2017;2801;Padova;Veneto;F;13617
+2016/2017;2801;Padova;Veneto;F;4707
+2016/2017;2801;Padova;Veneto;M;12918
+2016/2017;2801;Padova;Veneto;M;4745
+2016/2017;2801;Padova;Veneto;F;5984
+2016/2017;2801;Padova;Veneto;M;5741
+2016/2017;2801;Padova;Veneto;F;43
+2016/2017;2801;Padova;Veneto;M;1
+2016/2017;3001;Udine;Friuli-Venezia Giulia;F;1181
+2016/2017;3001;Udine;Friuli-Venezia Giulia;F;186
+2016/2017;3001;Udine;Friuli-Venezia Giulia;M;546
+2016/2017;3001;Udine;Friuli-Venezia Giulia;M;54
+2016/2017;3001;Udine;Friuli-Venezia Giulia;F;3872
+2016/2017;3001;Udine;Friuli-Venezia Giulia;F;1273
+2016/2017;3001;Udine;Friuli-Venezia Giulia;M;4091
+2016/2017;3001;Udine;Friuli-Venezia Giulia;M;1320
+2016/2017;3001;Udine;Friuli-Venezia Giulia;F;1103
+2016/2017;3001;Udine;Friuli-Venezia Giulia;M;1169
+2016/2017;3001;Udine;Friuli-Venezia Giulia;F;127
+2016/2017;3001;Udine;Friuli-Venezia Giulia;M;60
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;F;1893
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;F;229
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;M;1066
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;M;126
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;F;3543
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;F;1124
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;M;2996
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;M;904
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;F;1214
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;M;1296
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;F;221
+2016/2017;3201;Trieste;Friuli-Venezia Giulia;M;138
+2016/2017;3401;Parma;Emilia-Romagna;F;2791
+2016/2017;3401;Parma;Emilia-Romagna;F;356
+2016/2017;3401;Parma;Emilia-Romagna;M;1565
+2016/2017;3401;Parma;Emilia-Romagna;M;175
+2016/2017;3401;Parma;Emilia-Romagna;F;5464
+2016/2017;3401;Parma;Emilia-Romagna;F;2092
+2016/2017;3401;Parma;Emilia-Romagna;M;4734
+2016/2017;3401;Parma;Emilia-Romagna;M;1807
+2016/2017;3401;Parma;Emilia-Romagna;F;2506
+2016/2017;3401;Parma;Emilia-Romagna;M;2084
+2016/2017;3401;Parma;Emilia-Romagna;F;158
+2016/2017;3401;Parma;Emilia-Romagna;M;119
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;F;2071
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;F;337
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;M;1010
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;M;175
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;F;4996
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;F;2121
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;M;4915
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;M;1928
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;F;2054
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;M;2322
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;F;102
+2016/2017;3601;Modena e Reggio Emilia;Emilia-Romagna;M;34
+2016/2017;3701;Bologna;Emilia-Romagna;F;8571
+2016/2017;3701;Bologna;Emilia-Romagna;F;1292
+2016/2017;3701;Bologna;Emilia-Romagna;M;4650
+2016/2017;3701;Bologna;Emilia-Romagna;M;664
+2016/2017;3701;Bologna;Emilia-Romagna;F;17189
+2016/2017;3701;Bologna;Emilia-Romagna;F;6232
+2016/2017;3701;Bologna;Emilia-Romagna;M;15831
+2016/2017;3701;Bologna;Emilia-Romagna;M;5396
+2016/2017;3701;Bologna;Emilia-Romagna;F;9586
+2016/2017;3701;Bologna;Emilia-Romagna;M;8015
+2016/2017;3701;Bologna;Emilia-Romagna;F;762
+2016/2017;3701;Bologna;Emilia-Romagna;M;469
+2016/2017;3801;Ferrara;Emilia-Romagna;F;2605
+2016/2017;3801;Ferrara;Emilia-Romagna;F;389
+2016/2017;3801;Ferrara;Emilia-Romagna;M;1729
+2016/2017;3801;Ferrara;Emilia-Romagna;M;184
+2016/2017;3801;Ferrara;Emilia-Romagna;F;3445
+2016/2017;3801;Ferrara;Emilia-Romagna;F;1125
+2016/2017;3801;Ferrara;Emilia-Romagna;M;3163
+2016/2017;3801;Ferrara;Emilia-Romagna;M;927
+2016/2017;3801;Ferrara;Emilia-Romagna;F;901
+2016/2017;3801;Ferrara;Emilia-Romagna;M;864
+2016/2017;3801;Ferrara;Emilia-Romagna;F;95
+2016/2017;3801;Ferrara;Emilia-Romagna;M;61
+2016/2017;4101;Urbino Carlo Bo;Marche;F;1583
+2016/2017;4101;Urbino Carlo Bo;Marche;F;317
+2016/2017;4101;Urbino Carlo Bo;Marche;M;645
+2016/2017;4101;Urbino Carlo Bo;Marche;M;85
+2016/2017;4101;Urbino Carlo Bo;Marche;F;3822
+2016/2017;4101;Urbino Carlo Bo;Marche;F;1209
+2016/2017;4101;Urbino Carlo Bo;Marche;M;2806
+2016/2017;4101;Urbino Carlo Bo;Marche;M;854
+2016/2017;4101;Urbino Carlo Bo;Marche;F;1374
+2016/2017;4101;Urbino Carlo Bo;Marche;M;811
+2016/2017;4101;Urbino Carlo Bo;Marche;F;130
+2016/2017;4101;Urbino Carlo Bo;Marche;M;67
+2016/2017;4201;Marche;Marche;F;909
+2016/2017;4201;Marche;Marche;F;68
+2016/2017;4201;Marche;Marche;M;742
+2016/2017;4201;Marche;Marche;M;48
+2016/2017;4201;Marche;Marche;F;3484
+2016/2017;4201;Marche;Marche;F;1141
+2016/2017;4201;Marche;Marche;M;4387
+2016/2017;4201;Marche;Marche;M;1335
+2016/2017;4201;Marche;Marche;F;1348
+2016/2017;4201;Marche;Marche;M;1728
+2016/2017;4201;Marche;Marche;F;40
+2016/2017;4201;Marche;Marche;M;106
+2016/2017;4301;Macerata;Marche;F;1361
+2016/2017;4301;Macerata;Marche;F;238
+2016/2017;4301;Macerata;Marche;M;451
+2016/2017;4301;Macerata;Marche;M;65
+2016/2017;4301;Macerata;Marche;F;3188
+2016/2017;4301;Macerata;Marche;F;1023
+2016/2017;4301;Macerata;Marche;M;1389
+2016/2017;4301;Macerata;Marche;M;406
+2016/2017;4301;Macerata;Marche;F;1312
+2016/2017;4301;Macerata;Marche;M;507
+2016/2017;4301;Macerata;Marche;F;163
+2016/2017;4301;Macerata;Marche;M;58
+2016/2017;4302;Camerino;Marche;F;1352
+2016/2017;4302;Camerino;Marche;F;159
+2016/2017;4302;Camerino;Marche;M;963
+2016/2017;4302;Camerino;Marche;M;106
+2016/2017;4302;Camerino;Marche;F;1095
+2016/2017;4302;Camerino;Marche;F;399
+2016/2017;4302;Camerino;Marche;M;1288
+2016/2017;4302;Camerino;Marche;M;480
+2016/2017;4302;Camerino;Marche;F;352
+2016/2017;4302;Camerino;Marche;M;478
+2016/2017;4302;Camerino;Marche;F;100
+2016/2017;4302;Camerino;Marche;M;123
+2016/2017;4801;Firenze;Toscana;F;5980
+2016/2017;4801;Firenze;Toscana;F;807
+2016/2017;4801;Firenze;Toscana;M;3041
+2016/2017;4801;Firenze;Toscana;M;429
+2016/2017;4801;Firenze;Toscana;F;13188
+2016/2017;4801;Firenze;Toscana;F;4039
+2016/2017;4801;Firenze;Toscana;M;10362
+2016/2017;4801;Firenze;Toscana;M;3152
+2016/2017;4801;Firenze;Toscana;F;5208
+2016/2017;4801;Firenze;Toscana;M;3508
+2016/2017;4801;Firenze;Toscana;F;195
+2016/2017;4801;Firenze;Toscana;M;8
+2016/2017;4804;Firenze IUL;Toscana;F;19
+2016/2017;4804;Firenze IUL;Toscana;F;26
+2016/2017;4804;Firenze IUL;Toscana;M;18
+2016/2017;4804;Firenze IUL;Toscana;M;9
+2016/2017;4804;Firenze IUL;Toscana;F;18
+2016/2017;4804;Firenze IUL;Toscana;M;5
+2016/2017;5001;Pisa;Toscana;F;4219
+2016/2017;5001;Pisa;Toscana;F;519
+2016/2017;5001;Pisa;Toscana;M;2565
+2016/2017;5001;Pisa;Toscana;M;260
+2016/2017;5001;Pisa;Toscana;F;10744
+2016/2017;5001;Pisa;Toscana;F;2767
+2016/2017;5001;Pisa;Toscana;M;10740
+2016/2017;5001;Pisa;Toscana;M;3243
+2016/2017;5001;Pisa;Toscana;F;4356
+2016/2017;5001;Pisa;Toscana;M;4556
+2016/2017;5001;Pisa;Toscana;F;467
+2016/2017;5001;Pisa;Toscana;M;410
+2016/2017;5201;Siena;Toscana;F;2502
+2016/2017;5201;Siena;Toscana;F;234
+2016/2017;5201;Siena;Toscana;M;1416
+2016/2017;5201;Siena;Toscana;M;148
+2016/2017;5201;Siena;Toscana;F;3399
+2016/2017;5201;Siena;Toscana;F;1072
+2016/2017;5201;Siena;Toscana;M;2609
+2016/2017;5201;Siena;Toscana;M;799
+2016/2017;5201;Siena;Toscana;F;1641
+2016/2017;5201;Siena;Toscana;M;1457
+2016/2017;5202;Siena Stranieri;Toscana;F;904
+2016/2017;5202;Siena Stranieri;Toscana;F;439
+2016/2017;5202;Siena Stranieri;Toscana;M;216
+2016/2017;5202;Siena Stranieri;Toscana;M;94
+2016/2017;5202;Siena Stranieri;Toscana;F;175
+2016/2017;5202;Siena Stranieri;Toscana;M;36
+2016/2017;5401;Perugia;Umbria;F;3097
+2016/2017;5401;Perugia;Umbria;F;606
+2016/2017;5401;Perugia;Umbria;M;1697
+2016/2017;5401;Perugia;Umbria;M;236
+2016/2017;5401;Perugia;Umbria;F;5127
+2016/2017;5401;Perugia;Umbria;F;2384
+2016/2017;5401;Perugia;Umbria;M;4614
+2016/2017;5401;Perugia;Umbria;M;1908
+2016/2017;5401;Perugia;Umbria;F;1847
+2016/2017;5401;Perugia;Umbria;M;1521
+2016/2017;5403;Perugia Stranieri;Umbria;F;230
+2016/2017;5403;Perugia Stranieri;Umbria;F;72
+2016/2017;5403;Perugia Stranieri;Umbria;M;153
+2016/2017;5403;Perugia Stranieri;Umbria;M;41
+2016/2017;5403;Perugia Stranieri;Umbria;F;247
+2016/2017;5403;Perugia Stranieri;Umbria;M;132
+2016/2017;5601;Tuscia;Lazio;F;224
+2016/2017;5601;Tuscia;Lazio;F;53
+2016/2017;5601;Tuscia;Lazio;M;126
+2016/2017;5601;Tuscia;Lazio;M;27
+2016/2017;5601;Tuscia;Lazio;F;2206
+2016/2017;5601;Tuscia;Lazio;F;663
+2016/2017;5601;Tuscia;Lazio;M;2648
+2016/2017;5601;Tuscia;Lazio;M;754
+2016/2017;5601;Tuscia;Lazio;F;687
+2016/2017;5601;Tuscia;Lazio;M;477
+2016/2017;5801;Roma La Sapienza;Lazio;F;11510
+2016/2017;5801;Roma La Sapienza;Lazio;F;1402
+2016/2017;5801;Roma La Sapienza;Lazio;M;6800
+2016/2017;5801;Roma La Sapienza;Lazio;M;763
+2016/2017;5801;Roma La Sapienza;Lazio;F;24526
+2016/2017;5801;Roma La Sapienza;Lazio;F;7684
+2016/2017;5801;Roma La Sapienza;Lazio;M;19488
+2016/2017;5801;Roma La Sapienza;Lazio;M;6091
+2016/2017;5801;Roma La Sapienza;Lazio;F;11300
+2016/2017;5801;Roma La Sapienza;Lazio;M;9046
+2016/2017;5801;Roma La Sapienza;Lazio;F;853
+2016/2017;5801;Roma La Sapienza;Lazio;M;557
+2016/2017;5802;Roma Tor Vergata;Lazio;F;2527
+2016/2017;5802;Roma Tor Vergata;Lazio;F;330
+2016/2017;5802;Roma Tor Vergata;Lazio;M;1788
+2016/2017;5802;Roma Tor Vergata;Lazio;M;198
+2016/2017;5802;Roma Tor Vergata;Lazio;F;7231
+2016/2017;5802;Roma Tor Vergata;Lazio;F;2114
+2016/2017;5802;Roma Tor Vergata;Lazio;M;7311
+2016/2017;5802;Roma Tor Vergata;Lazio;M;2178
+2016/2017;5802;Roma Tor Vergata;Lazio;F;2632
+2016/2017;5802;Roma Tor Vergata;Lazio;M;2741
+2016/2017;5802;Roma Tor Vergata;Lazio;F;126
+2016/2017;5802;Roma Tor Vergata;Lazio;M;46
+2016/2017;5803;Roma LUMSA;Lazio;F;1366
+2016/2017;5803;Roma LUMSA;Lazio;F;141
+2016/2017;5803;Roma LUMSA;Lazio;M;622
+2016/2017;5803;Roma LUMSA;Lazio;M;55
+2016/2017;5803;Roma LUMSA;Lazio;F;1319
+2016/2017;5803;Roma LUMSA;Lazio;F;326
+2016/2017;5803;Roma LUMSA;Lazio;M;726
+2016/2017;5803;Roma LUMSA;Lazio;M;168
+2016/2017;5803;Roma LUMSA;Lazio;F;564
+2016/2017;5803;Roma LUMSA;Lazio;M;148
+2016/2017;5803;Roma LUMSA;Lazio;F;23
+2016/2017;5803;Roma LUMSA;Lazio;M;3
+2016/2017;5805;Roma LUISS;Lazio;F;1351
+2016/2017;5805;Roma LUISS;Lazio;F;272
+2016/2017;5805;Roma LUISS;Lazio;M;995
+2016/2017;5805;Roma LUISS;Lazio;M;220
+2016/2017;5805;Roma LUISS;Lazio;F;889
+2016/2017;5805;Roma LUISS;Lazio;F;448
+2016/2017;5805;Roma LUISS;Lazio;M;1326
+2016/2017;5805;Roma LUISS;Lazio;M;648
+2016/2017;5805;Roma LUISS;Lazio;F;1009
+2016/2017;5805;Roma LUISS;Lazio;M;1482
+2016/2017;5806;Roma Foro Italico;Lazio;F;358
+2016/2017;5806;Roma Foro Italico;Lazio;F;77
+2016/2017;5806;Roma Foro Italico;Lazio;M;1037
+2016/2017;5806;Roma Foro Italico;Lazio;M;264
+2016/2017;5806;Roma Foro Italico;Lazio;F;147
+2016/2017;5806;Roma Foro Italico;Lazio;M;317
+2016/2017;5807;Roma Tre;Lazio;F;3612
+2016/2017;5807;Roma Tre;Lazio;F;505
+2016/2017;5807;Roma Tre;Lazio;M;1621
+2016/2017;5807;Roma Tre;Lazio;M;249
+2016/2017;5807;Roma Tre;Lazio;F;8556
+2016/2017;5807;Roma Tre;Lazio;F;2347
+2016/2017;5807;Roma Tre;Lazio;M;6650
+2016/2017;5807;Roma Tre;Lazio;M;1875
+2016/2017;5807;Roma Tre;Lazio;F;3548
+2016/2017;5807;Roma Tre;Lazio;M;2797
+2016/2017;5807;Roma Tre;Lazio;F;384
+2016/2017;5807;Roma Tre;Lazio;M;70
+2016/2017;5808;Roma Biomedico;Lazio;F;306
+2016/2017;5808;Roma Biomedico;Lazio;F;49
+2016/2017;5808;Roma Biomedico;Lazio;M;297
+2016/2017;5808;Roma Biomedico;Lazio;M;36
+2016/2017;5808;Roma Biomedico;Lazio;F;358
+2016/2017;5808;Roma Biomedico;Lazio;F;116
+2016/2017;5808;Roma Biomedico;Lazio;M;180
+2016/2017;5808;Roma Biomedico;Lazio;M;63
+2016/2017;5808;Roma Biomedico;Lazio;F;180
+2016/2017;5808;Roma Biomedico;Lazio;M;106
+2016/2017;5809;Roma UNINT;Lazio;F;442
+2016/2017;5809;Roma UNINT;Lazio;F;90
+2016/2017;5809;Roma UNINT;Lazio;M;192
+2016/2017;5809;Roma UNINT;Lazio;M;31
+2016/2017;5809;Roma UNINT;Lazio;F;521
+2016/2017;5809;Roma UNINT;Lazio;M;101
+2016/2017;5810;Roma Marconi;Lazio;F;277
+2016/2017;5810;Roma Marconi;Lazio;F;12
+2016/2017;5810;Roma Marconi;Lazio;M;354
+2016/2017;5810;Roma Marconi;Lazio;M;13
+2016/2017;5810;Roma Marconi;Lazio;F;2211
+2016/2017;5810;Roma Marconi;Lazio;F;356
+2016/2017;5810;Roma Marconi;Lazio;M;2845
+2016/2017;5810;Roma Marconi;Lazio;M;354
+2016/2017;5810;Roma Marconi;Lazio;F;884
+2016/2017;5810;Roma Marconi;Lazio;M;863
+2016/2017;5811;Roma UNITELMA;Lazio;F;167
+2016/2017;5811;Roma UNITELMA;Lazio;F;2
+2016/2017;5811;Roma UNITELMA;Lazio;M;167
+2016/2017;5811;Roma UNITELMA;Lazio;M;5
+2016/2017;5811;Roma UNITELMA;Lazio;F;337
+2016/2017;5811;Roma UNITELMA;Lazio;F;35
+2016/2017;5811;Roma UNITELMA;Lazio;M;437
+2016/2017;5811;Roma UNITELMA;Lazio;M;58
+2016/2017;5811;Roma UNITELMA;Lazio;F;122
+2016/2017;5811;Roma UNITELMA;Lazio;M;131
+2016/2017;5812;Roma Europea;Lazio;F;133
+2016/2017;5812;Roma Europea;Lazio;F;25
+2016/2017;5812;Roma Europea;Lazio;M;53
+2016/2017;5812;Roma Europea;Lazio;M;16
+2016/2017;5812;Roma Europea;Lazio;F;163
+2016/2017;5812;Roma Europea;Lazio;F;85
+2016/2017;5812;Roma Europea;Lazio;M;133
+2016/2017;5812;Roma Europea;Lazio;M;50
+2016/2017;5812;Roma Europea;Lazio;F;98
+2016/2017;5812;Roma Europea;Lazio;M;51
+2016/2017;5813;Roma UNINETTUNO;Lazio;F;109
+2016/2017;5813;Roma UNINETTUNO;Lazio;F;7
+2016/2017;5813;Roma UNINETTUNO;Lazio;M;145
+2016/2017;5813;Roma UNINETTUNO;Lazio;M;16
+2016/2017;5813;Roma UNINETTUNO;Lazio;F;3494
+2016/2017;5813;Roma UNINETTUNO;Lazio;F;260
+2016/2017;5813;Roma UNINETTUNO;Lazio;M;5548
+2016/2017;5813;Roma UNINETTUNO;Lazio;M;380
+2016/2017;5813;Roma UNINETTUNO;Lazio;F;247
+2016/2017;5813;Roma UNINETTUNO;Lazio;M;431
+2016/2017;5814;Roma  Mercatorum;Lazio;F;74
+2016/2017;5814;Roma  Mercatorum;Lazio;F;39
+2016/2017;5814;Roma  Mercatorum;Lazio;M;101
+2016/2017;5814;Roma  Mercatorum;Lazio;M;64
+2016/2017;5814;Roma  Mercatorum;Lazio;F;20
+2016/2017;5814;Roma  Mercatorum;Lazio;M;33
+2016/2017;5815;Roma UNICUSANO;Lazio;F;1478
+2016/2017;5815;Roma UNICUSANO;Lazio;F;52
+2016/2017;5815;Roma UNICUSANO;Lazio;M;2185
+2016/2017;5815;Roma UNICUSANO;Lazio;M;111
+2016/2017;5815;Roma UNICUSANO;Lazio;F;4755
+2016/2017;5815;Roma UNICUSANO;Lazio;F;689
+2016/2017;5815;Roma UNICUSANO;Lazio;M;7505
+2016/2017;5815;Roma UNICUSANO;Lazio;M;1174
+2016/2017;5815;Roma UNICUSANO;Lazio;F;1326
+2016/2017;5815;Roma UNICUSANO;Lazio;M;1372
+2016/2017;5816;Roma San Raffaele;Lazio;F;676
+2016/2017;5816;Roma San Raffaele;Lazio;F;171
+2016/2017;5816;Roma San Raffaele;Lazio;M;1003
+2016/2017;5816;Roma San Raffaele;Lazio;M;297
+2016/2017;5816;Roma San Raffaele;Lazio;F;454
+2016/2017;5816;Roma San Raffaele;Lazio;M;423
+2016/2017;5817;Roma - Link Campus;Lazio;F;80
+2016/2017;5817;Roma - Link Campus;Lazio;F;10
+2016/2017;5817;Roma - Link Campus;Lazio;M;101
+2016/2017;5817;Roma - Link Campus;Lazio;M;7
+2016/2017;5817;Roma - Link Campus;Lazio;F;210
+2016/2017;5817;Roma - Link Campus;Lazio;F;58
+2016/2017;5817;Roma - Link Campus;Lazio;M;549
+2016/2017;5817;Roma - Link Campus;Lazio;M;184
+2016/2017;5817;Roma - Link Campus;Lazio;F;102
+2016/2017;5817;Roma - Link Campus;Lazio;M;186
+2016/2017;6001;Cassino;Lazio;F;463
+2016/2017;6001;Cassino;Lazio;F;54
+2016/2017;6001;Cassino;Lazio;M;231
+2016/2017;6001;Cassino;Lazio;M;45
+2016/2017;6001;Cassino;Lazio;F;2242
+2016/2017;6001;Cassino;Lazio;F;512
+2016/2017;6001;Cassino;Lazio;M;1982
+2016/2017;6001;Cassino;Lazio;M;520
+2016/2017;6001;Cassino;Lazio;F;818
+2016/2017;6001;Cassino;Lazio;M;694
+2016/2017;6201;Sannio;Campania;F;518
+2016/2017;6201;Sannio;Campania;F;73
+2016/2017;6201;Sannio;Campania;M;281
+2016/2017;6201;Sannio;Campania;M;47
+2016/2017;6201;Sannio;Campania;F;1324
+2016/2017;6201;Sannio;Campania;F;332
+2016/2017;6201;Sannio;Campania;M;1423
+2016/2017;6201;Sannio;Campania;M;343
+2016/2017;6201;Sannio;Campania;F;397
+2016/2017;6201;Sannio;Campania;M;390
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;F;44
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;F;1
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;M;61
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;F;23
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;F;8
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;M;51
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;M;10
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;F;10
+2016/2017;6202;Benevento - Giustino Fortunato;Campania;M;10
+2016/2017;6301;Napoli Federico II;Campania;F;10877
+2016/2017;6301;Napoli Federico II;Campania;F;1425
+2016/2017;6301;Napoli Federico II;Campania;M;6513
+2016/2017;6301;Napoli Federico II;Campania;M;848
+2016/2017;6301;Napoli Federico II;Campania;F;16736
+2016/2017;6301;Napoli Federico II;Campania;F;4873
+2016/2017;6301;Napoli Federico II;Campania;M;14989
+2016/2017;6301;Napoli Federico II;Campania;M;4785
+2016/2017;6301;Napoli Federico II;Campania;F;6890
+2016/2017;6301;Napoli Federico II;Campania;M;6101
+2016/2017;6302;Napoli Parthenope;Campania;F;788
+2016/2017;6302;Napoli Parthenope;Campania;F;61
+2016/2017;6302;Napoli Parthenope;Campania;M;569
+2016/2017;6302;Napoli Parthenope;Campania;M;53
+2016/2017;6302;Napoli Parthenope;Campania;F;3198
+2016/2017;6302;Napoli Parthenope;Campania;F;713
+2016/2017;6302;Napoli Parthenope;Campania;M;4562
+2016/2017;6302;Napoli Parthenope;Campania;M;1200
+2016/2017;6302;Napoli Parthenope;Campania;F;760
+2016/2017;6302;Napoli Parthenope;Campania;M;895
+2016/2017;6303;Napoli L'Orientale;Campania;F;5307
+2016/2017;6303;Napoli L'Orientale;Campania;F;1650
+2016/2017;6303;Napoli L'Orientale;Campania;M;1593
+2016/2017;6303;Napoli L'Orientale;Campania;M;396
+2016/2017;6303;Napoli L'Orientale;Campania;F;1381
+2016/2017;6303;Napoli L'Orientale;Campania;M;317
+2016/2017;6303;Napoli L'Orientale;Campania;F;126
+2016/2017;6303;Napoli L'Orientale;Campania;M;35
+2016/2017;6304;Napoli Benincasa;Campania;F;1821
+2016/2017;6304;Napoli Benincasa;Campania;F;278
+2016/2017;6304;Napoli Benincasa;Campania;M;247
+2016/2017;6304;Napoli Benincasa;Campania;M;36
+2016/2017;6304;Napoli Benincasa;Campania;F;3065
+2016/2017;6304;Napoli Benincasa;Campania;F;858
+2016/2017;6304;Napoli Benincasa;Campania;M;561
+2016/2017;6304;Napoli Benincasa;Campania;M;182
+2016/2017;6304;Napoli Benincasa;Campania;F;845
+2016/2017;6304;Napoli Benincasa;Campania;M;143
+2016/2017;6304;Napoli Benincasa;Campania;F;99
+2016/2017;6304;Napoli Benincasa;Campania;M;4
+2016/2017;6306;Napoli II;Campania;F;4169
+2016/2017;6306;Napoli II;Campania;F;388
+2016/2017;6306;Napoli II;Campania;M;3150
+2016/2017;6306;Napoli II;Campania;M;321
+2016/2017;6306;Napoli II;Campania;F;5820
+2016/2017;6306;Napoli II;Campania;F;1569
+2016/2017;6306;Napoli II;Campania;M;4339
+2016/2017;6306;Napoli II;Campania;M;1198
+2016/2017;6306;Napoli II;Campania;F;2521
+2016/2017;6306;Napoli II;Campania;M;1390
+2016/2017;6306;Napoli II;Campania;F;244
+2016/2017;6306;Napoli II;Campania;M;176
+2016/2017;6307;Napoli Pegaso;Campania;F;1575
+2016/2017;6307;Napoli Pegaso;Campania;F;77
+2016/2017;6307;Napoli Pegaso;Campania;M;2810
+2016/2017;6307;Napoli Pegaso;Campania;M;201
+2016/2017;6307;Napoli Pegaso;Campania;F;4398
+2016/2017;6307;Napoli Pegaso;Campania;F;1188
+2016/2017;6307;Napoli Pegaso;Campania;M;7690
+2016/2017;6307;Napoli Pegaso;Campania;M;2135
+2016/2017;6307;Napoli Pegaso;Campania;F;719
+2016/2017;6307;Napoli Pegaso;Campania;M;1161
+2016/2017;6501;Salerno;Campania;F;5488
+2016/2017;6501;Salerno;Campania;F;659
+2016/2017;6501;Salerno;Campania;M;2559
+2016/2017;6501;Salerno;Campania;M;314
+2016/2017;6501;Salerno;Campania;F;8636
+2016/2017;6501;Salerno;Campania;F;2358
+2016/2017;6501;Salerno;Campania;M;7655
+2016/2017;6501;Salerno;Campania;M;2496
+2016/2017;6501;Salerno;Campania;F;2600
+2016/2017;6501;Salerno;Campania;M;1691
+2016/2017;6501;Salerno;Campania;F;504
+2016/2017;6501;Salerno;Campania;M;192
+2016/2017;6601;L'Aquila;Abruzzo;F;1827
+2016/2017;6601;L'Aquila;Abruzzo;F;129
+2016/2017;6601;L'Aquila;Abruzzo;M;899
+2016/2017;6601;L'Aquila;Abruzzo;M;32
+2016/2017;6601;L'Aquila;Abruzzo;F;4722
+2016/2017;6601;L'Aquila;Abruzzo;F;812
+2016/2017;6601;L'Aquila;Abruzzo;M;4282
+2016/2017;6601;L'Aquila;Abruzzo;M;851
+2016/2017;6601;L'Aquila;Abruzzo;F;1913
+2016/2017;6601;L'Aquila;Abruzzo;M;1217
+2016/2017;6601;L'Aquila;Abruzzo;F;154
+2016/2017;6601;L'Aquila;Abruzzo;M;81
+2016/2017;6701;Teramo;Abruzzo;F;1354
+2016/2017;6701;Teramo;Abruzzo;F;125
+2016/2017;6701;Teramo;Abruzzo;M;717
+2016/2017;6701;Teramo;Abruzzo;M;89
+2016/2017;6701;Teramo;Abruzzo;F;1281
+2016/2017;6701;Teramo;Abruzzo;F;425
+2016/2017;6701;Teramo;Abruzzo;M;1192
+2016/2017;6701;Teramo;Abruzzo;M;321
+2016/2017;6701;Teramo;Abruzzo;F;249
+2016/2017;6701;Teramo;Abruzzo;M;187
+2016/2017;6701;Teramo;Abruzzo;F;74
+2016/2017;6701;Teramo;Abruzzo;M;38
+2016/2017;6901;Chieti e Pescara;Abruzzo;F;3037
+2016/2017;6901;Chieti e Pescara;Abruzzo;F;314
+2016/2017;6901;Chieti e Pescara;Abruzzo;M;1885
+2016/2017;6901;Chieti e Pescara;Abruzzo;M;198
+2016/2017;6901;Chieti e Pescara;Abruzzo;F;7513
+2016/2017;6901;Chieti e Pescara;Abruzzo;F;2171
+2016/2017;6901;Chieti e Pescara;Abruzzo;M;4472
+2016/2017;6901;Chieti e Pescara;Abruzzo;M;1280
+2016/2017;6901;Chieti e Pescara;Abruzzo;F;2703
+2016/2017;6901;Chieti e Pescara;Abruzzo;M;1134
+2016/2017;6901;Chieti e Pescara;Abruzzo;F;147
+2016/2017;6901;Chieti e Pescara;Abruzzo;M;93
+2016/2017;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;F;25
+2016/2017;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;F;3
+2016/2017;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;M;22
+2016/2017;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;M;2
+2016/2017;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;F;46
+2016/2017;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;F;1
+2016/2017;6902;Torrevecchia Teatina - Leonardo da Vinci;Abruzzo;M;35
+2016/2017;7001;Molise;Molise;F;1271
+2016/2017;7001;Molise;Molise;F;126
+2016/2017;7001;Molise;Molise;M;552
+2016/2017;7001;Molise;Molise;M;49
+2016/2017;7001;Molise;Molise;F;1679
+2016/2017;7001;Molise;Molise;F;489
+2016/2017;7001;Molise;Molise;M;1456
+2016/2017;7001;Molise;Molise;M;396
+2016/2017;7001;Molise;Molise;F;472
+2016/2017;7001;Molise;Molise;M;389
+2016/2017;7001;Molise;Molise;F;54
+2016/2017;7001;Molise;Molise;M;2
+2016/2017;7101;Foggia;Puglia;F;896
+2016/2017;7101;Foggia;Puglia;F;105
+2016/2017;7101;Foggia;Puglia;M;641
+2016/2017;7101;Foggia;Puglia;M;99
+2016/2017;7101;Foggia;Puglia;F;3054
+2016/2017;7101;Foggia;Puglia;F;1043
+2016/2017;7101;Foggia;Puglia;M;1862
+2016/2017;7101;Foggia;Puglia;M;666
+2016/2017;7101;Foggia;Puglia;F;704
+2016/2017;7101;Foggia;Puglia;M;374
+2016/2017;7201;Bari;Puglia;F;7006
+2016/2017;7201;Bari;Puglia;F;807
+2016/2017;7201;Bari;Puglia;M;3797
+2016/2017;7201;Bari;Puglia;M;407
+2016/2017;7201;Bari;Puglia;F;12597
+2016/2017;7201;Bari;Puglia;F;3230
+2016/2017;7201;Bari;Puglia;M;8242
+2016/2017;7201;Bari;Puglia;M;2301
+2016/2017;7201;Bari;Puglia;F;3161
+2016/2017;7201;Bari;Puglia;M;1527
+2016/2017;7201;Bari;Puglia;F;790
+2016/2017;7201;Bari;Puglia;M;413
+2016/2017;7202;Bari Politecnico;Puglia;F;733
+2016/2017;7202;Bari Politecnico;Puglia;F;75
+2016/2017;7202;Bari Politecnico;Puglia;M;514
+2016/2017;7202;Bari Politecnico;Puglia;M;52
+2016/2017;7202;Bari Politecnico;Puglia;F;1165
+2016/2017;7202;Bari Politecnico;Puglia;F;405
+2016/2017;7202;Bari Politecnico;Puglia;M;3378
+2016/2017;7202;Bari Politecnico;Puglia;M;1073
+2016/2017;7202;Bari Politecnico;Puglia;F;569
+2016/2017;7202;Bari Politecnico;Puglia;M;1463
+2016/2017;7202;Bari Politecnico;Puglia;F;43
+2016/2017;7202;Bari Politecnico;Puglia;M;151
+2016/2017;7203;Casamassima - J.Monnet;Puglia;F;232
+2016/2017;7203;Casamassima - J.Monnet;Puglia;F;10
+2016/2017;7203;Casamassima - J.Monnet;Puglia;M;234
+2016/2017;7203;Casamassima - J.Monnet;Puglia;M;19
+2016/2017;7203;Casamassima - J.Monnet;Puglia;F;161
+2016/2017;7203;Casamassima - J.Monnet;Puglia;F;57
+2016/2017;7203;Casamassima - J.Monnet;Puglia;M;382
+2016/2017;7203;Casamassima - J.Monnet;Puglia;M;104
+2016/2017;7203;Casamassima - J.Monnet;Puglia;F;59
+2016/2017;7203;Casamassima - J.Monnet;Puglia;M;105
+2016/2017;7501;Salento;Puglia;F;1443
+2016/2017;7501;Salento;Puglia;F;183
+2016/2017;7501;Salento;Puglia;M;631
+2016/2017;7501;Salento;Puglia;M;90
+2016/2017;7501;Salento;Puglia;F;5244
+2016/2017;7501;Salento;Puglia;F;1482
+2016/2017;7501;Salento;Puglia;M;3379
+2016/2017;7501;Salento;Puglia;M;940
+2016/2017;7501;Salento;Puglia;F;1903
+2016/2017;7501;Salento;Puglia;M;1011
+2016/2017;7501;Salento;Puglia;F;199
+2016/2017;7501;Salento;Puglia;M;80
+2016/2017;7601;Basilicata;Basilicata;F;1118
+2016/2017;7601;Basilicata;Basilicata;F;156
+2016/2017;7601;Basilicata;Basilicata;M;284
+2016/2017;7601;Basilicata;Basilicata;M;56
+2016/2017;7601;Basilicata;Basilicata;F;1620
+2016/2017;7601;Basilicata;Basilicata;F;314
+2016/2017;7601;Basilicata;Basilicata;M;1628
+2016/2017;7601;Basilicata;Basilicata;M;387
+2016/2017;7601;Basilicata;Basilicata;F;425
+2016/2017;7601;Basilicata;Basilicata;M;421
+2016/2017;7601;Basilicata;Basilicata;F;65
+2016/2017;7601;Basilicata;Basilicata;M;1
+2016/2017;7801;Calabria;Calabria;F;3127
+2016/2017;7801;Calabria;Calabria;F;411
+2016/2017;7801;Calabria;Calabria;M;998
+2016/2017;7801;Calabria;Calabria;M;127
+2016/2017;7801;Calabria;Calabria;F;7455
+2016/2017;7801;Calabria;Calabria;F;1618
+2016/2017;7801;Calabria;Calabria;M;6089
+2016/2017;7801;Calabria;Calabria;M;1538
+2016/2017;7801;Calabria;Calabria;F;2075
+2016/2017;7801;Calabria;Calabria;M;1746
+2016/2017;7801;Calabria;Calabria;F;199
+2016/2017;7801;Calabria;Calabria;M;104
+2016/2017;7901;Catanzaro;Calabria;F;2430
+2016/2017;7901;Catanzaro;Calabria;F;249
+2016/2017;7901;Catanzaro;Calabria;M;1417
+2016/2017;7901;Catanzaro;Calabria;M;143
+2016/2017;7901;Catanzaro;Calabria;F;2513
+2016/2017;7901;Catanzaro;Calabria;F;648
+2016/2017;7901;Catanzaro;Calabria;M;1863
+2016/2017;7901;Catanzaro;Calabria;M;447
+2016/2017;7901;Catanzaro;Calabria;F;171
+2016/2017;7901;Catanzaro;Calabria;M;127
+2016/2017;8001;Reggio Calabria;Calabria;F;1493
+2016/2017;8001;Reggio Calabria;Calabria;F;126
+2016/2017;8001;Reggio Calabria;Calabria;M;864
+2016/2017;8001;Reggio Calabria;Calabria;M;63
+2016/2017;8001;Reggio Calabria;Calabria;F;823
+2016/2017;8001;Reggio Calabria;Calabria;F;183
+2016/2017;8001;Reggio Calabria;Calabria;M;1198
+2016/2017;8001;Reggio Calabria;Calabria;M;334
+2016/2017;8001;Reggio Calabria;Calabria;F;253
+2016/2017;8001;Reggio Calabria;Calabria;M;395
+2016/2017;8001;Reggio Calabria;Calabria;F;59
+2016/2017;8001;Reggio Calabria;Calabria;M;33
+2016/2017;8003;Reggio Calabria - Dante Alighieri;Calabria;F;404
+2016/2017;8003;Reggio Calabria - Dante Alighieri;Calabria;F;134
+2016/2017;8003;Reggio Calabria - Dante Alighieri;Calabria;M;70
+2016/2017;8003;Reggio Calabria - Dante Alighieri;Calabria;M;43
+2016/2017;8003;Reggio Calabria - Dante Alighieri;Calabria;F;244
+2016/2017;8003;Reggio Calabria - Dante Alighieri;Calabria;M;43
+2016/2017;8201;Palermo;Sicilia;F;7211
+2016/2017;8201;Palermo;Sicilia;F;863
+2016/2017;8201;Palermo;Sicilia;M;3968
+2016/2017;8201;Palermo;Sicilia;M;418
+2016/2017;8201;Palermo;Sicilia;F;8956
+2016/2017;8201;Palermo;Sicilia;F;2851
+2016/2017;8201;Palermo;Sicilia;M;7620
+2016/2017;8201;Palermo;Sicilia;M;2451
+2016/2017;8201;Palermo;Sicilia;F;3244
+2016/2017;8201;Palermo;Sicilia;M;2096
+2016/2017;8201;Palermo;Sicilia;F;45
+2016/2017;8201;Palermo;Sicilia;M;3
+2016/2017;8301;Messina;Sicilia;F;3192
+2016/2017;8301;Messina;Sicilia;F;296
+2016/2017;8301;Messina;Sicilia;M;2068
+2016/2017;8301;Messina;Sicilia;M;199
+2016/2017;8301;Messina;Sicilia;F;6762
+2016/2017;8301;Messina;Sicilia;F;1737
+2016/2017;8301;Messina;Sicilia;M;4042
+2016/2017;8301;Messina;Sicilia;M;1205
+2016/2017;8301;Messina;Sicilia;F;1919
+2016/2017;8301;Messina;Sicilia;M;790
+2016/2017;8301;Messina;Sicilia;F;378
+2016/2017;8301;Messina;Sicilia;M;174
+2016/2017;8601;Enna - KORE;Sicilia;F;1247
+2016/2017;8601;Enna - KORE;Sicilia;F;168
+2016/2017;8601;Enna - KORE;Sicilia;M;469
+2016/2017;8601;Enna - KORE;Sicilia;M;34
+2016/2017;8601;Enna - KORE;Sicilia;F;1325
+2016/2017;8601;Enna - KORE;Sicilia;F;333
+2016/2017;8601;Enna - KORE;Sicilia;M;1087
+2016/2017;8601;Enna - KORE;Sicilia;M;250
+2016/2017;8601;Enna - KORE;Sicilia;F;413
+2016/2017;8601;Enna - KORE;Sicilia;M;170
+2016/2017;8701;Catania;Sicilia;F;5295
+2016/2017;8701;Catania;Sicilia;F;622
+2016/2017;8701;Catania;Sicilia;M;3486
+2016/2017;8701;Catania;Sicilia;M;373
+2016/2017;8701;Catania;Sicilia;F;12084
+2016/2017;8701;Catania;Sicilia;F;2635
+2016/2017;8701;Catania;Sicilia;M;8911
+2016/2017;8701;Catania;Sicilia;M;2306
+2016/2017;8701;Catania;Sicilia;F;3863
+2016/2017;8701;Catania;Sicilia;M;2309
+2016/2017;8701;Catania;Sicilia;F;968
+2016/2017;8701;Catania;Sicilia;M;494
+2016/2017;9001;Sassari;Sardegna;F;1809
+2016/2017;9001;Sassari;Sardegna;F;198
+2016/2017;9001;Sassari;Sardegna;M;1002
+2016/2017;9001;Sassari;Sardegna;M;121
+2016/2017;9001;Sassari;Sardegna;F;3839
+2016/2017;9001;Sassari;Sardegna;F;1073
+2016/2017;9001;Sassari;Sardegna;M;2264
+2016/2017;9001;Sassari;Sardegna;M;687
+2016/2017;9001;Sassari;Sardegna;F;1016
+2016/2017;9001;Sassari;Sardegna;M;541
+2016/2017;9001;Sassari;Sardegna;F;242
+2016/2017;9001;Sassari;Sardegna;M;101
+2016/2017;9201;Cagliari;Sardegna;F;2782
+2016/2017;9201;Cagliari;Sardegna;F;311
+2016/2017;9201;Cagliari;Sardegna;M;1508
+2016/2017;9201;Cagliari;Sardegna;M;130
+2016/2017;9201;Cagliari;Sardegna;F;7710
+2016/2017;9201;Cagliari;Sardegna;F;1563
+2016/2017;9201;Cagliari;Sardegna;M;5879
+2016/2017;9201;Cagliari;Sardegna;M;1322
+2016/2017;9201;Cagliari;Sardegna;F;2209
+2016/2017;9201;Cagliari;Sardegna;M;1372
+2016/2017;9201;Cagliari;Sardegna;F;423
+2016/2017;9201;Cagliari;Sardegna;M;170
