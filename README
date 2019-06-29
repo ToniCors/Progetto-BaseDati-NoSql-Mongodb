@@ -1,0 +1,8 @@
+Si vuole analizzare il numero di iscritti e di laureati di tutti gli Atenei della penisola italiana, nell’intervallo temporale 2014-2016.
+Al fine del raggiungimento del nostro obiettivo sono stati prelevati dei dataset pubblici, reperiti dalla banca di dati del Ministero dell’Istruzione dell’Università e della Ricerca (MIUR).
+Si è progettata una base di dati NO-SQL, utilizzando MongoDB, interrogata mediante una piccola applicazione Java con la quale vi si può interagire attraverso GUI.
+L’utilizzo di una base di dati NO-SQL è motivata dalle sue caratteristiche, che la rendono non rigida e adatta per le nostre necessità, le quali non si approcciavano in modo naturale ad un tipo di base di dati relazionale (in particolare per la differenza di attributi tra i dataset utilizzati).
+Dato che è stato scelto di effettuare un’analisi del triennio 2014-2016 è stato necessario, per una corretta analisi dei dati, effettuare un processo di riconciliazione dei dataset.
+Le interrogazioni sono effettuate attraverso una GUI programmata in Java.
+La connessione a MongoDB è stata gestita attraverso una classe DatabaseManager, che si occupa di recuperare la connessione al DB.
+I risultati sono gestiti attraverso l’oggetto MongoCollection, i cui elementi sono stati strutturati inserendoli in una JTable, mentre per la personalizzazione di query è stato utilizzato l’oggetto BasicDBObject, a cui vengono aggiunti i campi personalizzati, messi in AND o OR a seconda del tipo di query.
